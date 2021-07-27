@@ -1,0 +1,8326 @@
+:root {
+	--web-view-ids: MAIN_PAGE,PAYWARE_PAGE,CHECKOUT,PAYMENT,CONFIRM,FREEWARE_PAGE,TUTOR_PAGE,CONTACT_PAGE,HOW_TO_BUY,ARTICLE_PAGE,CONTACT_PAGE__1,MAIN_PAGE__1,MAIN_PAGE__2;
+	--web-view-name: MAIN PAGE;
+	--web-view-id: MAIN_PAGE;
+	--web-scale-to-fit: false;
+	--web-scale-to-fit-type: default;
+	--web-enable-scale-up: false;
+	--web-scale-on-resize: true;
+	--web-show-scale-controls: false;
+	--web-scale-on-double-click: false;
+	--web-center-horizontally: false;
+	--web-center-vertically: false;
+	--web-actual-size-on-double-click: false;
+	--web-navigate-on-keypress: false;
+	--web-refresh-for-changes: false;
+	--web-add-image-compare: false;
+	--web-show-by-media-query: false;
+	--web-application: true;
+	--web-show-navigation-controls: false;
+	--web-enable-deep-linking: true;
+	--web-is-overlay: false;
+}
+#MAIN_PAGE,
+#PAYWARE_PAGE,
+#CHECKOUT,
+#PAYMENT,
+#CONFIRM,
+#FREEWARE_PAGE,
+#TUTOR_PAGE,
+#CONTACT_PAGE,
+#HOW_TO_BUY,
+#ARTICLE_PAGE,
+#CONTACT_PAGE__1,
+#MAIN_PAGE__1,
+#MAIN_PAGE__2 {
+	display: none;
+}
+@media (min-width: 1920px) {
+	.mediaViewInfo {
+		--web-view-name: MAIN PAGE;
+		--web-view-id: MAIN_PAGE;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#MAIN_PAGE {
+		position: absolute;
+		display: block;
+		width: 1920px;
+		height: 3387px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: MAIN PAGE;
+		--web-view-id: MAIN_PAGE;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#Group_54 {
+		position: absolute;
+		width: 1920px;
+		height: 179px;
+		left: 0px;
+		top: -15px;
+		overflow: visible;
+	}
+	#Path_2 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_2 {
+		overflow: visible;
+		position: absolute;
+		width: 1920px;
+		height: 164px;
+		left: 0px;
+		top: 15px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#GETA_2_HEADER {
+		filter: blur(10px);
+		position: absolute;
+		width: 1920px;
+		height: 164px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_62 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_62 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 894px;
+		left: 0px;
+		top: 164px;
+	}
+	#Whats_New {
+		left: 258px;
+		top: 319px;
+		position: absolute;
+		overflow: visible;
+		width: 271px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 50px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_15 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_15 {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 292px;
+		height: 412px;
+		left: 349px;
+		top: 1142px;
+	}
+	#SALE_1 {
+		position: absolute;
+		width: 254.016px;
+		height: 142.757px;
+		left: 363.897px;
+		top: 1151.912px;
+		overflow: visible;
+	}
+	#EKSEKUTIF_KACA_PESAWAT_ {
+		left: 386px;
+		top: 1310px;
+		position: absolute;
+		overflow: visible;
+		width: 220px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 19px;
+		color: rgba(112,112,112,1);
+	}
+	#IDR30000 {
+		left: 459px;
+		top: 1335px;
+		position: absolute;
+		overflow: visible;
+		width: 64px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(249,61,61,1);
+	}
+	#_FEATURE______Real_scale__HD__ {
+		left: 381px;
+		top: 1360px;
+		position: absolute;
+		overflow: visible;
+		width: 217px;
+		white-space: nowrap;
+		line-height: 15px;
+		margin-top: -1px;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_16 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_16 {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 291px;
+		height: 412px;
+		left: 692px;
+		top: 1142px;
+	}
+	#SALE_2 {
+		position: absolute;
+		width: 254.016px;
+		height: 142.757px;
+		left: 705.703px;
+		top: 1160.912px;
+		overflow: visible;
+	}
+	#NEW_BUSINESS_CLASS_ {
+		left: 739px;
+		top: 1310px;
+		position: absolute;
+		overflow: visible;
+		width: 186px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 19px;
+		color: rgba(112,112,112,1);
+	}
+	#IDR30000_ {
+		left: 801px;
+		top: 1335px;
+		position: absolute;
+		overflow: visible;
+		width: 64px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(249,61,61,1);
+	}
+	#_FEATURE______Real_scale__HD___ {
+		left: 732px;
+		top: 1360px;
+		position: absolute;
+		overflow: visible;
+		width: 194px;
+		white-space: nowrap;
+		line-height: 15px;
+		margin-top: -1px;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_17 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_17 {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 291px;
+		height: 413px;
+		left: 1035px;
+		top: 1142px;
+	}
+	#SALE_3 {
+		position: absolute;
+		width: 254.016px;
+		height: 142.757px;
+		left: 1048.509px;
+		top: 1161.684px;
+		overflow: visible;
+	}
+	#EKONOMI_AC_CENTRAL_ {
+		left: 1091px;
+		top: 1310px;
+		position: absolute;
+		overflow: visible;
+		width: 187px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 19px;
+		color: rgba(112,112,112,1);
+	}
+	#IDR30000_ba {
+		left: 1144px;
+		top: 1335px;
+		position: absolute;
+		overflow: visible;
+		width: 64px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(249,61,61,1);
+	}
+	#_FEATURE______Real_scale__HD___bb {
+		left: 1075px;
+		top: 1361px;
+		position: absolute;
+		overflow: visible;
+		width: 220px;
+		white-space: nowrap;
+		line-height: 15px;
+		margin-top: -1px;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_18 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_18 {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 292px;
+		height: 413px;
+		left: 1377px;
+		top: 1142px;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: ARTICLE_PAGE;
+		cursor: pointer;
+	}
+	#SALE_4 {
+		position: absolute;
+		width: 254.016px;
+		height: 142.757px;
+		left: 1391.314px;
+		top: 1161.684px;
+		overflow: visible;
+	}
+	#_KERETA_EKONOMI_ {
+		left: 1442px;
+		top: 1310px;
+		position: absolute;
+		overflow: visible;
+		width: 150px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 19px;
+		color: rgba(112,112,112,1);
+	}
+	#IDR30000_bf {
+		left: 1487px;
+		top: 1335px;
+		position: absolute;
+		overflow: visible;
+		width: 64px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(249,61,61,1);
+	}
+	#_FEATURE______Real_scale__HD___bg {
+		left: 1416px;
+		top: 1359px;
+		position: absolute;
+		overflow: visible;
+		width: 220px;
+		white-space: nowrap;
+		line-height: 15px;
+		margin-top: -1px;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_49 {
+		fill: rgba(112,112,112,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_49 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 209px;
+		left: 0px;
+		top: 3178px;
+	}
+	#FREEWARE_CONTENT {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		left: 349px;
+		top: 1981px;
+		position: absolute;
+		overflow: visible;
+		width: 464px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Cocogoose;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 41px;
+		color: rgba(255,88,88,1);
+	}
+	#Rectangle_15_bj {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_15_bj {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 292px;
+		height: 232px;
+		left: 349px;
+		top: 1698px;
+	}
+	#SALE_1_bk {
+		position: absolute;
+		width: 254.016px;
+		height: 142.757px;
+		left: 362.897px;
+		top: 1717.585px;
+		overflow: visible;
+	}
+	#EKSEKUTIF_KACA_PESAWAT__bl {
+		left: 386px;
+		top: 1875px;
+		position: absolute;
+		overflow: visible;
+		width: 220px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 19px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_16_bm {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_16_bm {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 291px;
+		height: 232px;
+		left: 692px;
+		top: 1698px;
+	}
+	#SALE_2_bn {
+		position: absolute;
+		width: 254.016px;
+		height: 142.757px;
+		left: 705.703px;
+		top: 1717.585px;
+		overflow: visible;
+	}
+	#NEW_BUSINESS_CLASS__bo {
+		left: 739px;
+		top: 1875px;
+		position: absolute;
+		overflow: visible;
+		width: 186px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 19px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_17_bp {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_17_bp {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 291px;
+		height: 231px;
+		left: 1035px;
+		top: 1699px;
+	}
+	#SALE_3_bq {
+		position: absolute;
+		width: 254.016px;
+		height: 142.757px;
+		left: 1048.509px;
+		top: 1718.357px;
+		overflow: visible;
+	}
+	#EKONOMI_AC_CENTRAL__br {
+		left: 1091px;
+		top: 1875px;
+		position: absolute;
+		overflow: visible;
+		width: 187px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 19px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_18_bs {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_18_bs {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 292px;
+		height: 231px;
+		left: 1377px;
+		top: 1699px;
+	}
+	#SALE_4_bt {
+		position: absolute;
+		width: 254.016px;
+		height: 142.757px;
+		left: 1391.314px;
+		top: 1718.357px;
+		overflow: visible;
+	}
+	#_KERETA_EKONOMI__bu {
+		left: 1442px;
+		top: 1875px;
+		position: absolute;
+		overflow: visible;
+		width: 150px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 19px;
+		color: rgba(112,112,112,1);
+	}
+	#PAYWARE_CONTENT {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		left: 349px;
+		top: 1645px;
+		position: absolute;
+		overflow: visible;
+		width: 434px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Cocogoose;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 41px;
+		color: rgba(255,88,88,1);
+	}
+	#Rectangle_50 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_50 {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 292px;
+		height: 233px;
+		left: 349px;
+		top: 2053px;
+	}
+	#SALE_1_bx {
+		position: absolute;
+		width: 254.016px;
+		height: 142.757px;
+		left: 362.897px;
+		top: 2072.744px;
+		overflow: visible;
+	}
+	#EKSEKUTIF_KACA_PESAWAT__by {
+		left: 386px;
+		top: 2230px;
+		position: absolute;
+		overflow: visible;
+		width: 220px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 19px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_51 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_51 {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 291px;
+		height: 233px;
+		left: 692px;
+		top: 2053px;
+	}
+	#SALE_2_b {
+		position: absolute;
+		width: 254.016px;
+		height: 142.757px;
+		left: 705.703px;
+		top: 2072.744px;
+		overflow: visible;
+	}
+	#NEW_BUSINESS_CLASS__b {
+		left: 739px;
+		top: 2230px;
+		position: absolute;
+		overflow: visible;
+		width: 186px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 19px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_52 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_52 {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 291px;
+		height: 232px;
+		left: 1035px;
+		top: 2054px;
+	}
+	#SALE_3_b {
+		position: absolute;
+		width: 254.016px;
+		height: 142.757px;
+		left: 1048.509px;
+		top: 2073.516px;
+		overflow: visible;
+	}
+	#EKONOMI_AC_CENTRAL__b {
+		left: 1091px;
+		top: 2230px;
+		position: absolute;
+		overflow: visible;
+		width: 187px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 19px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_53 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_53 {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 292px;
+		height: 232px;
+		left: 1377px;
+		top: 2054px;
+	}
+	#SALE_4_b {
+		position: absolute;
+		width: 254.016px;
+		height: 142.757px;
+		left: 1391.314px;
+		top: 2073.516px;
+		overflow: visible;
+	}
+	#_KERETA_EKONOMI__b {
+		left: 1442px;
+		top: 2230px;
+		position: absolute;
+		overflow: visible;
+		width: 150px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 19px;
+		color: rgba(112,112,112,1);
+	}
+	#Group_20 {
+		position: absolute;
+		width: 207px;
+		height: 66px;
+		left: 901px;
+		top: 2409px;
+		overflow: visible;
+	}
+	#Rectangle_35_ca {
+		fill: url(#Rectangle_35_ca);
+	}
+	.Rectangle_35_ca {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 225px;
+		height: 84px;
+		left: 0px;
+		top: 0px;
+	}
+	#How_To_Buy {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 17px;
+		top: 9px;
+		position: absolute;
+		overflow: visible;
+		width: 166px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 34px;
+		color: rgba(255,255,255,1);
+	}
+	#GETA_LOGO_PUTIH {
+		filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		width: 335px;
+		height: 65px;
+		left: -65px;
+		top: 3264px;
+		overflow: visible;
+	}
+	#Payware {
+		left: 225px;
+		top: 3253px;
+		position: absolute;
+		overflow: visible;
+		width: 63px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(190,190,190,1);
+	}
+	#Freeware {
+		left: 225px;
+		top: 3285px;
+		position: absolute;
+		overflow: visible;
+		width: 68px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(190,190,190,1);
+	}
+	#Gallery_ {
+		left: 225px;
+		top: 3318px;
+		position: absolute;
+		overflow: visible;
+		width: 57px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(190,190,190,1);
+	}
+	#Contact {
+		left: 331px;
+		top: 3253px;
+		position: absolute;
+		overflow: visible;
+		width: 65px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(190,190,190,1);
+	}
+	#How_To_Buy_ch {
+		left: 331px;
+		top: 3285px;
+		position: absolute;
+		overflow: visible;
+		width: 89px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(190,190,190,1);
+	}
+	#Tutorial {
+		left: 331px;
+		top: 3318px;
+		position: absolute;
+		overflow: visible;
+		width: 59px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(190,190,190,1);
+	}
+	#Payment_Method {
+		left: 439px;
+		top: 3253px;
+		position: absolute;
+		overflow: visible;
+		width: 130px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(190,190,190,1);
+	}
+	#Faq {
+		left: 439px;
+		top: 3285px;
+		position: absolute;
+		overflow: visible;
+		width: 31px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(190,190,190,1);
+	}
+	#_Geta_Production__2020 {
+		left: 897px;
+		top: 3329px;
+		position: absolute;
+		overflow: visible;
+		width: 127px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(190,190,190,1);
+	}
+	#Created_by_Ratsa_Creative {
+		left: 927px;
+		top: 3344px;
+		position: absolute;
+		overflow: visible;
+		width: 67px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 6px;
+		color: rgba(190,190,190,1);
+	}
+	#SALE_1_cn {
+		position: absolute;
+		width: 481px;
+		height: 321px;
+		left: 258px;
+		top: 394px;
+		overflow: visible;
+	}
+	#GETA_LOGO_PUTIH_co {
+		filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		width: 697px;
+		height: 135px;
+		left: 612px;
+		top: 51px;
+		overflow: visible;
+	}
+	#Group_10 {
+		position: absolute;
+		width: 97px;
+		height: 31px;
+		left: 1788px;
+		top: 27px;
+		overflow: visible;
+	}
+	#Rectangle_35_cr {
+		fill: url(#Rectangle_35_cr);
+	}
+	.Rectangle_35_cr {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 115px;
+		height: 49px;
+		left: 0px;
+		top: 0px;
+	}
+	#How_To_Buy_cs {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 8px;
+		top: 4px;
+		position: absolute;
+		overflow: visible;
+		width: 79px;
+		white-space: nowrap;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: HOW_TO_BUY;
+		cursor: pointer;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(255,255,255,1);
+	}
+	#Contact_ct {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1712px;
+		top: 30px;
+		position: absolute;
+		overflow: visible;
+		width: 65px;
+		white-space: nowrap;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: CONTACT_PAGE;
+		cursor: pointer;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+	}
+	#Tutorial_cu {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1637px;
+		top: 30px;
+		position: absolute;
+		overflow: visible;
+		width: 58px;
+		white-space: nowrap;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: TUTOR_PAGE;
+		cursor: pointer;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+	}
+	#Freeware_cv {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1553px;
+		top: 30px;
+		position: absolute;
+		overflow: visible;
+		width: 68px;
+		white-space: nowrap;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: FREEWARE_PAGE;
+		cursor: pointer;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+	}
+	#Payware_cw {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1473px;
+		top: 30px;
+		position: absolute;
+		overflow: visible;
+		width: 63px;
+		white-space: nowrap;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: PAYWARE_PAGE;
+		cursor: pointer;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+	}
+}
+@media (min-width: 1920px) {
+	.mediaViewInfo {
+		--web-view-name: PAYWARE PAGE;
+		--web-view-id: PAYWARE_PAGE;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#PAYWARE_PAGE {
+		position: absolute;
+		display: block;
+		width: 1920px;
+		height: 3387px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: PAYWARE PAGE;
+		--web-view-id: PAYWARE_PAGE;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#GETA_2_HEADER_cz {
+		filter: blur(10px);
+		position: absolute;
+		width: 1920px;
+		height: 122px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#GETA_LOGO_PUTIH_c {
+		filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		width: 414px;
+		height: 80px;
+		left: -12px;
+		top: 37px;
+		overflow: visible;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: MAIN_PAGE;
+		cursor: pointer;
+	}
+	#Contact_c {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1645px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 89px;
+		white-space: nowrap;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: CONTACT_PAGE;
+		cursor: pointer;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#Tutorial_c {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1542px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 80px;
+		white-space: nowrap;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: TUTOR_PAGE;
+		cursor: pointer;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#Freeware_c {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1425px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 94px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#Payware_c {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1315px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 87px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#Rectangle_15_c {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_15_c {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 556px;
+		left: 111px;
+		top: 371px;
+	}
+	#SALE_1_c {
+		position: absolute;
+		width: 329px;
+		height: 184.5px;
+		left: 129px;
+		top: 396px;
+		overflow: visible;
+	}
+	#EKSEKUTIF_KACA_PESAWAT__c {
+		left: 159px;
+		top: 600px;
+		position: absolute;
+		overflow: visible;
+		width: 290px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(112,112,112,1);
+	}
+	#IDR30000_c {
+		left: 253px;
+		top: 633px;
+		position: absolute;
+		overflow: visible;
+		width: 84px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(249,61,61,1);
+	}
+	#_FEATURE______Real_scale__HD___c {
+		left: 152px;
+		top: 678px;
+		position: absolute;
+		overflow: visible;
+		width: 284px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_16_da {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_16_da {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 556px;
+		left: 555px;
+		top: 371px;
+	}
+	#SALE_2_db {
+		position: absolute;
+		width: 329px;
+		height: 184.5px;
+		left: 573px;
+		top: 396px;
+		overflow: visible;
+	}
+	#NEW_BUSINESS_CLASS__dc {
+		left: 616px;
+		top: 600px;
+		position: absolute;
+		overflow: visible;
+		width: 244px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(112,112,112,1);
+	}
+	#IDR30000_dd {
+		left: 697px;
+		top: 633px;
+		position: absolute;
+		overflow: visible;
+		width: 84px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(249,61,61,1);
+	}
+	#_FEATURE______Real_scale__HD___de {
+		left: 607px;
+		top: 678px;
+		position: absolute;
+		overflow: visible;
+		width: 253px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_17_df {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_17_df {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 556px;
+		left: 999px;
+		top: 372px;
+	}
+	#SALE_3_dg {
+		position: absolute;
+		width: 329px;
+		height: 184.5px;
+		left: 1017px;
+		top: 397px;
+		overflow: visible;
+	}
+	#EKONOMI_AC_CENTRAL__dh {
+		left: 1072px;
+		top: 600px;
+		position: absolute;
+		overflow: visible;
+		width: 246px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(112,112,112,1);
+	}
+	#IDR30000_di {
+		left: 1141px;
+		top: 633px;
+		position: absolute;
+		overflow: visible;
+		width: 84px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(249,61,61,1);
+	}
+	#_FEATURE______Real_scale__HD___dj {
+		left: 1051px;
+		top: 679px;
+		position: absolute;
+		overflow: visible;
+		width: 287px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_18_dk {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_18_dk {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 556px;
+		left: 1443px;
+		top: 372px;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: ARTICLE_PAGE;
+		cursor: pointer;
+	}
+	#SALE_4_dl {
+		position: absolute;
+		width: 329px;
+		height: 184.5px;
+		left: 1461px;
+		top: 397px;
+		overflow: visible;
+	}
+	#_KERETA_EKONOMI__dm {
+		left: 1527px;
+		top: 600px;
+		position: absolute;
+		overflow: visible;
+		width: 197px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(112,112,112,1);
+	}
+	#IDR30000_dn {
+		left: 1585px;
+		top: 633px;
+		position: absolute;
+		overflow: visible;
+		width: 84px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(249,61,61,1);
+	}
+	#_FEATURE______Real_scale__HD___do {
+		left: 1493px;
+		top: 677px;
+		position: absolute;
+		overflow: visible;
+		width: 287px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(112,112,112,1);
+	}
+	#PAYWARE_CONTENT_dp {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		left: 675px;
+		top: 225px;
+		position: absolute;
+		overflow: visible;
+		width: 571px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Cocogoose;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 54px;
+		color: rgba(255,88,88,1);
+	}
+	#Group_4 {
+		position: absolute;
+		width: 115px;
+		height: 60px;
+		left: 1763px;
+		top: 210px;
+		overflow: visible;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: CHECKOUT;
+		cursor: pointer;
+	}
+	#Rectangle_24_ds {
+		fill: url(#Rectangle_24_ds);
+	}
+	.Rectangle_24_ds {
+		position: absolute;
+		overflow: visible;
+		width: 115px;
+		height: 60px;
+		left: 0px;
+		top: 0px;
+	}
+	#cashier-machine {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		width: 29px;
+		height: 29px;
+		left: 43px;
+		top: 8px;
+		overflow: visible;
+	}
+	#Checkout {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		left: 26px;
+		top: 40px;
+		position: absolute;
+		overflow: visible;
+		width: 65px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Cocogoose;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_9 {
+		position: absolute;
+		width: 134px;
+		height: 43px;
+		left: 1753px;
+		top: 25px;
+		overflow: visible;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: HOW_TO_BUY;
+		cursor: pointer;
+	}
+	#Rectangle_35_dx {
+		fill: url(#Rectangle_35_dx);
+	}
+	.Rectangle_35_dx {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 152px;
+		height: 61px;
+		left: 0px;
+		top: 0px;
+	}
+	#How_To_Buy_dy {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 11px;
+		top: 6px;
+		position: absolute;
+		overflow: visible;
+		width: 113px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 23px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_7 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 1583px;
+		top: 938px;
+		overflow: visible;
+	}
+	#Rectangle_42 {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_42 {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#shopping-cart-fill {
+		position: absolute;
+		width: 52px;
+		height: 52px;
+		left: 31px;
+		top: 4px;
+		overflow: visible;
+	}
+	#Group_11 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 1138px;
+		top: 938px;
+		overflow: visible;
+	}
+	#Rectangle_42_d {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_42_d {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#shopping-cart-fill_d {
+		position: absolute;
+		width: 52px;
+		height: 52px;
+		left: 31px;
+		top: 4px;
+		overflow: visible;
+	}
+	#Group_12 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 681px;
+		top: 938px;
+		overflow: visible;
+	}
+	#Rectangle_42_ea {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_42_ea {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#shopping-cart-fill_ea {
+		position: absolute;
+		width: 52px;
+		height: 52px;
+		left: 31px;
+		top: 4px;
+		overflow: visible;
+	}
+	#Group_13 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 247px;
+		top: 938px;
+		overflow: visible;
+	}
+	#Rectangle_42_eb {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_42_eb {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#shopping-cart-fill_eb {
+		position: absolute;
+		width: 52px;
+		height: 52px;
+		left: 31px;
+		top: 4px;
+		overflow: visible;
+	}
+	#Rectangle_54 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_54 {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 556px;
+		left: 111px;
+		top: 1069px;
+	}
+	#SALE_1_ec {
+		position: absolute;
+		width: 329px;
+		height: 184.5px;
+		left: 129px;
+		top: 1094px;
+		overflow: visible;
+	}
+	#EKSEKUTIF_KACA_PESAWAT__ed {
+		left: 159px;
+		top: 1298px;
+		position: absolute;
+		overflow: visible;
+		width: 290px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(112,112,112,1);
+	}
+	#IDR30000_ee {
+		left: 253px;
+		top: 1331px;
+		position: absolute;
+		overflow: visible;
+		width: 84px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(249,61,61,1);
+	}
+	#_FEATURE______Real_scale__HD___ef {
+		left: 152px;
+		top: 1376px;
+		position: absolute;
+		overflow: visible;
+		width: 284px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_55 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_55 {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 556px;
+		left: 555px;
+		top: 1069px;
+	}
+	#SALE_2_eh {
+		position: absolute;
+		width: 329px;
+		height: 184.5px;
+		left: 573px;
+		top: 1094px;
+		overflow: visible;
+	}
+	#NEW_BUSINESS_CLASS__ei {
+		left: 616px;
+		top: 1298px;
+		position: absolute;
+		overflow: visible;
+		width: 244px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(112,112,112,1);
+	}
+	#IDR30000_ej {
+		left: 697px;
+		top: 1331px;
+		position: absolute;
+		overflow: visible;
+		width: 84px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(249,61,61,1);
+	}
+	#_FEATURE______Real_scale__HD___ek {
+		left: 607px;
+		top: 1376px;
+		position: absolute;
+		overflow: visible;
+		width: 253px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_56 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_56 {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 556px;
+		left: 999px;
+		top: 1070px;
+	}
+	#SALE_3_em {
+		position: absolute;
+		width: 329px;
+		height: 184.5px;
+		left: 1017px;
+		top: 1095px;
+		overflow: visible;
+	}
+	#EKONOMI_AC_CENTRAL__en {
+		left: 1072px;
+		top: 1298px;
+		position: absolute;
+		overflow: visible;
+		width: 246px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(112,112,112,1);
+	}
+	#IDR30000_eo {
+		left: 1141px;
+		top: 1331px;
+		position: absolute;
+		overflow: visible;
+		width: 84px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(249,61,61,1);
+	}
+	#_FEATURE______Real_scale__HD___ep {
+		left: 1051px;
+		top: 1377px;
+		position: absolute;
+		overflow: visible;
+		width: 287px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_57 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_57 {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 556px;
+		left: 1443px;
+		top: 1070px;
+	}
+	#SALE_4_er {
+		position: absolute;
+		width: 329px;
+		height: 184.5px;
+		left: 1461px;
+		top: 1095px;
+		overflow: visible;
+	}
+	#_KERETA_EKONOMI__es {
+		left: 1527px;
+		top: 1298px;
+		position: absolute;
+		overflow: visible;
+		width: 197px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(112,112,112,1);
+	}
+	#IDR30000_et {
+		left: 1585px;
+		top: 1331px;
+		position: absolute;
+		overflow: visible;
+		width: 84px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(249,61,61,1);
+	}
+	#_FEATURE______Real_scale__HD___eu {
+		left: 1493px;
+		top: 1375px;
+		position: absolute;
+		overflow: visible;
+		width: 287px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(112,112,112,1);
+	}
+	#Group_21 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 1583px;
+		top: 1636px;
+		overflow: visible;
+	}
+	#Rectangle_42_ew {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_42_ew {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#shopping-cart-fill_ex {
+		position: absolute;
+		width: 52px;
+		height: 52px;
+		left: 31px;
+		top: 4px;
+		overflow: visible;
+	}
+	#Group_22 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 1138px;
+		top: 1636px;
+		overflow: visible;
+	}
+	#Rectangle_42_ez {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_42_ez {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#shopping-cart-fill_e {
+		position: absolute;
+		width: 52px;
+		height: 52px;
+		left: 31px;
+		top: 4px;
+		overflow: visible;
+	}
+	#Group_23 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 681px;
+		top: 1636px;
+		overflow: visible;
+	}
+	#Rectangle_42_e {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_42_e {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#shopping-cart-fill_fa {
+		position: absolute;
+		width: 52px;
+		height: 52px;
+		left: 31px;
+		top: 4px;
+		overflow: visible;
+	}
+	#Group_24 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 247px;
+		top: 1636px;
+		overflow: visible;
+	}
+	#Rectangle_42_fa {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_42_fa {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#shopping-cart-fill_fb {
+		position: absolute;
+		width: 52px;
+		height: 52px;
+		left: 31px;
+		top: 4px;
+		overflow: visible;
+	}
+	#Rectangle_58 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_58 {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 556px;
+		left: 111px;
+		top: 1767px;
+	}
+	#SALE_1_e {
+		position: absolute;
+		width: 329px;
+		height: 184.5px;
+		left: 129px;
+		top: 1792px;
+		overflow: visible;
+	}
+	#EKSEKUTIF_KACA_PESAWAT__e {
+		left: 159px;
+		top: 1996px;
+		position: absolute;
+		overflow: visible;
+		width: 290px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(112,112,112,1);
+	}
+	#IDR30000_fa {
+		left: 253px;
+		top: 2029px;
+		position: absolute;
+		overflow: visible;
+		width: 84px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(249,61,61,1);
+	}
+	#_FEATURE______Real_scale__HD___fb {
+		left: 152px;
+		top: 2074px;
+		position: absolute;
+		overflow: visible;
+		width: 284px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_59 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_59 {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 556px;
+		left: 555px;
+		top: 1767px;
+	}
+	#SALE_2_fd {
+		position: absolute;
+		width: 329px;
+		height: 184.5px;
+		left: 573px;
+		top: 1792px;
+		overflow: visible;
+	}
+	#NEW_BUSINESS_CLASS__fe {
+		left: 616px;
+		top: 1996px;
+		position: absolute;
+		overflow: visible;
+		width: 244px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(112,112,112,1);
+	}
+	#IDR30000_ff {
+		left: 697px;
+		top: 2029px;
+		position: absolute;
+		overflow: visible;
+		width: 84px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(249,61,61,1);
+	}
+	#_FEATURE______Real_scale__HD___fg {
+		left: 607px;
+		top: 2074px;
+		position: absolute;
+		overflow: visible;
+		width: 253px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_60 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_60 {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 556px;
+		left: 999px;
+		top: 1768px;
+	}
+	#SALE_3_fi {
+		position: absolute;
+		width: 329px;
+		height: 184.5px;
+		left: 1017px;
+		top: 1793px;
+		overflow: visible;
+	}
+	#EKONOMI_AC_CENTRAL__fj {
+		left: 1072px;
+		top: 1996px;
+		position: absolute;
+		overflow: visible;
+		width: 246px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(112,112,112,1);
+	}
+	#IDR30000_fk {
+		left: 1141px;
+		top: 2029px;
+		position: absolute;
+		overflow: visible;
+		width: 84px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(249,61,61,1);
+	}
+	#_FEATURE______Real_scale__HD___fl {
+		left: 1051px;
+		top: 2075px;
+		position: absolute;
+		overflow: visible;
+		width: 287px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_61 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_61 {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 556px;
+		left: 1443px;
+		top: 1768px;
+	}
+	#SALE_4_fn {
+		position: absolute;
+		width: 329px;
+		height: 184.5px;
+		left: 1461px;
+		top: 1793px;
+		overflow: visible;
+	}
+	#_KERETA_EKONOMI__fo {
+		left: 1527px;
+		top: 1996px;
+		position: absolute;
+		overflow: visible;
+		width: 197px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(112,112,112,1);
+	}
+	#IDR30000_fp {
+		left: 1585px;
+		top: 2029px;
+		position: absolute;
+		overflow: visible;
+		width: 84px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(249,61,61,1);
+	}
+	#_FEATURE______Real_scale__HD___fq {
+		left: 1493px;
+		top: 2073px;
+		position: absolute;
+		overflow: visible;
+		width: 287px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(112,112,112,1);
+	}
+	#Group_25 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 1583px;
+		top: 2334px;
+		overflow: visible;
+	}
+	#Rectangle_42_fs {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_42_fs {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#shopping-cart-fill_ft {
+		position: absolute;
+		width: 52px;
+		height: 52px;
+		left: 31px;
+		top: 4px;
+		overflow: visible;
+	}
+	#Group_26 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 1138px;
+		top: 2334px;
+		overflow: visible;
+	}
+	#Rectangle_42_fv {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_42_fv {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#shopping-cart-fill_fw {
+		position: absolute;
+		width: 52px;
+		height: 52px;
+		left: 31px;
+		top: 4px;
+		overflow: visible;
+	}
+	#Group_27 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 681px;
+		top: 2334px;
+		overflow: visible;
+	}
+	#Rectangle_42_fy {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_42_fy {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#shopping-cart-fill_fz {
+		position: absolute;
+		width: 52px;
+		height: 52px;
+		left: 31px;
+		top: 4px;
+		overflow: visible;
+	}
+	#Group_28 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 247px;
+		top: 2334px;
+		overflow: visible;
+	}
+	#Rectangle_42_f {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_42_f {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#shopping-cart-fill_f {
+		position: absolute;
+		width: 52px;
+		height: 52px;
+		left: 31px;
+		top: 4px;
+		overflow: visible;
+	}
+	#shopping-cart1 {
+		position: absolute;
+		width: 23px;
+		height: 23px;
+		left: 1801px;
+		top: 180px;
+		overflow: visible;
+	}
+	#_1 {
+		left: 1830px;
+		top: 184px;
+		position: absolute;
+		overflow: visible;
+		width: 12px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(0,0,0,1);
+	}
+	#Rectangle_49_f {
+		fill: rgba(112,112,112,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_49_f {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 269px;
+		left: 0px;
+		top: 3118px;
+	}
+	#GETA_LOGO_PUTIH_f {
+		filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		width: 403px;
+		height: 78px;
+		left: -57px;
+		top: 3214px;
+		overflow: visible;
+	}
+	#Payware_f {
+		left: 292px;
+		top: 3201px;
+		position: absolute;
+		overflow: visible;
+		width: 77px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Freeware_f {
+		left: 292px;
+		top: 3240px;
+		position: absolute;
+		overflow: visible;
+		width: 82px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Gallery__f {
+		left: 292px;
+		top: 3279px;
+		position: absolute;
+		overflow: visible;
+		width: 69px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Contact_ga {
+		left: 420px;
+		top: 3201px;
+		position: absolute;
+		overflow: visible;
+		width: 79px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#How_To_Buy_gb {
+		left: 420px;
+		top: 3240px;
+		position: absolute;
+		overflow: visible;
+		width: 107px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Tutorial_gc {
+		left: 420px;
+		top: 3279px;
+		position: absolute;
+		overflow: visible;
+		width: 71px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Payment_Method_gd {
+		left: 550px;
+		top: 3201px;
+		position: absolute;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Faq_ge {
+		left: 550px;
+		top: 3240px;
+		position: absolute;
+		overflow: visible;
+		width: 38px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#_Geta_Production__2020_gf {
+		left: 881px;
+		top: 3319px;
+		position: absolute;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(190,190,190,1);
+	}
+	#Created_by_Ratsa_Creative_gg {
+		left: 916px;
+		top: 3337px;
+		position: absolute;
+		overflow: visible;
+		width: 89px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 8px;
+		color: rgba(190,190,190,1);
+	}
+}
+@media (min-width: 1920px) {
+	.mediaViewInfo {
+		--web-view-name: CHECKOUT;
+		--web-view-id: CHECKOUT;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#CHECKOUT {
+		position: absolute;
+		display: block;
+		width: 1920px;
+		height: 1080px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: CHECKOUT;
+		--web-view-id: CHECKOUT;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#GETA_4 {
+		filter: blur(21px);
+		position: absolute;
+		width: 1922px;
+		height: 1080.5px;
+		left: -4px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_1 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_1 {
+		filter: drop-shadow(0px 6px 8px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 554px;
+		height: 948px;
+		left: 705px;
+		top: 65px;
+	}
+	#Checkout_gl {
+		filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.161));
+		left: 876px;
+		top: 94px;
+		position: absolute;
+		overflow: visible;
+		width: 170px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 42px;
+		color: rgba(112,112,112,1);
+	}
+	#Item_ {
+		left: 772px;
+		top: 188px;
+		position: absolute;
+		overflow: visible;
+		width: 75px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 32px;
+		color: rgba(112,112,112,1);
+	}
+	#IDR30000_gn {
+		left: 1038px;
+		top: 248px;
+		position: absolute;
+		overflow: visible;
+		width: 76px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 19px;
+		color: rgba(249,61,61,1);
+	}
+	#KERETA_EKONOMI {
+		left: 772px;
+		top: 249px;
+		position: absolute;
+		overflow: visible;
+		width: 134px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(112,112,112,1);
+	}
+	#Total_ {
+		left: 1038px;
+		top: 759px;
+		position: absolute;
+		overflow: visible;
+		width: 59px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 23px;
+		color: rgba(112,112,112,1);
+	}
+	#IDR60000 {
+		left: 1038px;
+		top: 786px;
+		position: absolute;
+		overflow: visible;
+		width: 111px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(249,61,61,1);
+	}
+	#Group_2 {
+		position: absolute;
+		width: 123px;
+		height: 49px;
+		left: 1038px;
+		top: 844px;
+		overflow: visible;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: PAYMENT;
+		cursor: pointer;
+	}
+	#Path_1 {
+		fill: rgba(255,185,93,1);
+	}
+	.Path_1 {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		overflow: visible;
+		position: absolute;
+		width: 141px;
+		height: 67px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#PAYMENT_gt {
+		left: 9px;
+		top: 9px;
+		position: absolute;
+		overflow: visible;
+		width: 106px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_1 {
+		position: absolute;
+		width: 123px;
+		height: 49px;
+		left: 896px;
+		top: 844px;
+		overflow: visible;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: MAIN_PAGE;
+		cursor: pointer;
+	}
+	#Rectangle_27 {
+		fill: rgba(255,185,93,1);
+	}
+	.Rectangle_27 {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		height: 67px;
+		left: 0px;
+		top: 0px;
+	}
+	#HOME {
+		left: 28px;
+		top: 9px;
+		position: absolute;
+		overflow: visible;
+		width: 68px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27px;
+		color: rgba(255,255,255,1);
+	}
+}
+@media (min-width: 1920px) {
+	.mediaViewInfo {
+		--web-view-name: PAYMENT;
+		--web-view-id: PAYMENT;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#PAYMENT {
+		position: absolute;
+		display: block;
+		width: 1920px;
+		height: 1080px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: PAYMENT;
+		--web-view-id: PAYMENT;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#GETA_4_gz {
+		filter: blur(21px);
+		position: absolute;
+		width: 1922px;
+		height: 1080.5px;
+		left: -4px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_1_g {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_1_g {
+		filter: drop-shadow(0px 6px 8px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 554px;
+		height: 948px;
+		left: 705px;
+		top: 65px;
+	}
+	#Payment_Method_g {
+		filter: drop-shadow(0px 2px 3px rgba(0, 0, 0, 0.161));
+		left: 909px;
+		top: 104px;
+		position: absolute;
+		overflow: visible;
+		width: 123px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 33px;
+		color: rgba(112,112,112,1);
+	}
+	#Group_3 {
+		position: absolute;
+		width: 123px;
+		height: 49px;
+		left: 910px;
+		top: 919px;
+		overflow: visible;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: MAIN_PAGE;
+		cursor: pointer;
+	}
+	#Rectangle_27_g {
+		fill: rgba(255,185,93,1);
+	}
+	.Rectangle_27_g {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		height: 67px;
+		left: 0px;
+		top: 0px;
+	}
+	#HOME_g {
+		left: 28px;
+		top: 9px;
+		position: absolute;
+		overflow: visible;
+		width: 68px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27px;
+		color: rgba(255,255,255,1);
+	}
+	#Rectangle_28 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_28 {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 193px;
+		height: 88px;
+		left: 785px;
+		top: 264px;
+	}
+	#Rectangle_29 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_29 {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 193px;
+		height: 88px;
+		left: 785px;
+		top: 356px;
+	}
+	#Rectangle_30 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_30 {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 193px;
+		height: 88px;
+		left: 989px;
+		top: 264px;
+	}
+	#Rectangle_31 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_31 {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 193px;
+		height: 88px;
+		left: 785px;
+		top: 264px;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: CONFIRM;
+		cursor: pointer;
+	}
+	#Rectangle_32 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_32 {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 193px;
+		height: 88px;
+		left: 989px;
+		top: 356px;
+	}
+	#Rectangle_34 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_34 {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 193px;
+		height: 88px;
+		left: 785px;
+		top: 457px;
+	}
+	#DANA {
+		position: absolute;
+		width: 139px;
+		height: 139px;
+		left: 804px;
+		top: 230px;
+		overflow: visible;
+	}
+	#OVO {
+		position: absolute;
+		width: 154px;
+		height: 64px;
+		left: 1000px;
+		top: 267px;
+		overflow: visible;
+	}
+	#GOPAY {
+		position: absolute;
+		width: 146px;
+		height: 31px;
+		left: 800px;
+		top: 376px;
+		overflow: visible;
+	}
+	#LINKAJA2 {
+		position: absolute;
+		width: 178px;
+		height: 84px;
+		left: 988px;
+		top: 349px;
+		overflow: visible;
+	}
+	#Mandiri_logo {
+		position: absolute;
+		width: 146px;
+		height: 46px;
+		left: 804px;
+		top: 469px;
+		overflow: visible;
+	}
+	#Rectangle_36 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_36 {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 193px;
+		height: 88px;
+		left: 990px;
+		top: 457px;
+	}
+	#Logo_Indomaret {
+		position: absolute;
+		width: 135px;
+		height: 51px;
+		left: 1009px;
+		top: 467px;
+		overflow: visible;
+	}
+}
+@media (min-width: 1920px) {
+	.mediaViewInfo {
+		--web-view-name: CONFIRM;
+		--web-view-id: CONFIRM;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#CONFIRM {
+		position: absolute;
+		display: block;
+		width: 1920px;
+		height: 1080px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: CONFIRM;
+		--web-view-id: CONFIRM;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	#GETA_4_hk {
+		filter: blur(21px);
+		position: absolute;
+		width: 1922px;
+		height: 1080.5px;
+		left: -4px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_1_hl {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_1_hl {
+		filter: drop-shadow(0px 6px 8px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 554px;
+		height: 948px;
+		left: 705px;
+		top: 65px;
+	}
+	#Confirm {
+		filter: drop-shadow(0px 2px 6px rgba(0, 0, 0, 0.161));
+		left: 893px;
+		top: 95px;
+		position: absolute;
+		overflow: visible;
+		width: 135px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 42px;
+		color: rgba(112,112,112,1);
+	}
+	#Item__hn {
+		left: 772px;
+		top: 188px;
+		position: absolute;
+		overflow: visible;
+		width: 75px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 32px;
+		color: rgba(112,112,112,1);
+	}
+	#EKSEKUTIF_KACA_PESAWAT__ho {
+		left: 772px;
+		top: 248px;
+		position: absolute;
+		overflow: visible;
+		width: 209px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(112,112,112,1);
+	}
+	#IDR30000_hp {
+		left: 1038px;
+		top: 248px;
+		position: absolute;
+		overflow: visible;
+		width: 76px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 19px;
+		color: rgba(249,61,61,1);
+	}
+	#KERETA_EKONOMI_hq {
+		left: 772px;
+		top: 273px;
+		position: absolute;
+		overflow: visible;
+		width: 134px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(112,112,112,1);
+	}
+	#IDR30000_hr {
+		left: 1038px;
+		top: 272px;
+		position: absolute;
+		overflow: visible;
+		width: 76px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 19px;
+		color: rgba(249,61,61,1);
+	}
+	#Total__hs {
+		left: 1038px;
+		top: 759px;
+		position: absolute;
+		overflow: visible;
+		width: 59px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 23px;
+		color: rgba(112,112,112,1);
+	}
+	#IDR60000_ht {
+		left: 1038px;
+		top: 786px;
+		position: absolute;
+		overflow: visible;
+		width: 111px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(249,61,61,1);
+	}
+	#Path_1_hu {
+		fill: rgba(102,238,97,1);
+	}
+	.Path_1_hu {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		overflow: visible;
+		position: absolute;
+		width: 141px;
+		height: 67px;
+		left: 1038px;
+		top: 844px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#WA {
+		left: 1082px;
+		top: 853px;
+		position: absolute;
+		overflow: visible;
+		width: 37px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27px;
+		color: rgba(255,255,255,1);
+	}
+	#Rectangle_27_hw {
+		fill: rgba(102,238,97,1);
+	}
+	.Rectangle_27_hw {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		height: 67px;
+		left: 896px;
+		top: 844px;
+	}
+	#LINE {
+		left: 933px;
+		top: 853px;
+		position: absolute;
+		overflow: visible;
+		width: 50px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27px;
+		color: rgba(255,255,255,1);
+	}
+	#Payment_Method_hy {
+		left: 772px;
+		top: 316px;
+		position: absolute;
+		overflow: visible;
+		width: 130px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_31_hz {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_31_hz {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 193px;
+		height: 88px;
+		left: 772px;
+		top: 355px;
+	}
+	#DANA_h {
+		position: absolute;
+		width: 139px;
+		height: 139px;
+		left: 791px;
+		top: 321px;
+		overflow: visible;
+	}
+}
+@media (min-width: 1920px) {
+	.mediaViewInfo {
+		--web-view-name: FREEWARE PAGE;
+		--web-view-id: FREEWARE_PAGE;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#FREEWARE_PAGE {
+		position: absolute;
+		display: block;
+		width: 1920px;
+		height: 3387px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: FREEWARE PAGE;
+		--web-view-id: FREEWARE_PAGE;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#GETA_2_HEADER_h {
+		filter: blur(10px);
+		position: absolute;
+		width: 1920px;
+		height: 122px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#GETA_LOGO_PUTIH_h {
+		filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		width: 414px;
+		height: 80px;
+		left: -12px;
+		top: 37px;
+		overflow: visible;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: MAIN_PAGE;
+		cursor: pointer;
+	}
+	#Contact_h {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1645px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 89px;
+		white-space: nowrap;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: CONTACT_PAGE;
+		cursor: pointer;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#Tutorial_h {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1542px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 80px;
+		white-space: nowrap;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: TUTOR_PAGE;
+		cursor: pointer;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#Freeware_h {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1425px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 94px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#Payware_h {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1315px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 87px;
+		white-space: nowrap;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: PAYWARE_PAGE;
+		cursor: pointer;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#FREEWARE_CONTENT_h {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		left: 655px;
+		top: 221px;
+		position: absolute;
+		overflow: visible;
+		width: 611px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Cocogoose;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 54px;
+		color: rgba(255,88,88,1);
+	}
+	#Rectangle_35_ib {
+		fill: url(#Rectangle_35_ib);
+	}
+	.Rectangle_35_ib {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 152px;
+		height: 61px;
+		left: 1753px;
+		top: 25px;
+	}
+	#How_To_Buy_ic {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1764px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 113px;
+		white-space: nowrap;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: HOW_TO_BUY;
+		cursor: pointer;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 23px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_29 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 1570px;
+		top: 2351px;
+		overflow: visible;
+	}
+	#Rectangle_23 {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_23 {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#download-line1 {
+		position: absolute;
+		width: 51px;
+		height: 51px;
+		left: 31px;
+		top: 5px;
+		overflow: visible;
+	}
+	#Group_30 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 1128px;
+		top: 2351px;
+		overflow: visible;
+	}
+	#Rectangle_23_ih {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_23_ih {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#download-line1_ii {
+		position: absolute;
+		width: 51px;
+		height: 51px;
+		left: 31px;
+		top: 5px;
+		overflow: visible;
+	}
+	#Group_31 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 671px;
+		top: 2351px;
+		overflow: visible;
+	}
+	#Rectangle_23_ik {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_23_ik {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#download-line1_il {
+		position: absolute;
+		width: 51px;
+		height: 51px;
+		left: 31px;
+		top: 5px;
+		overflow: visible;
+	}
+	#Group_32 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 1570px;
+		top: 2351px;
+		overflow: visible;
+	}
+	#Rectangle_23_in {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_23_in {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#download-line1_io {
+		position: absolute;
+		width: 51px;
+		height: 51px;
+		left: 31px;
+		top: 5px;
+		overflow: visible;
+	}
+	#Group_33 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 671px;
+		top: 2351px;
+		overflow: visible;
+	}
+	#Rectangle_23_iq {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_23_iq {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#download-line1_ir {
+		position: absolute;
+		width: 51px;
+		height: 51px;
+		left: 31px;
+		top: 5px;
+		overflow: visible;
+	}
+	#Group_34 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 237px;
+		top: 2351px;
+		overflow: visible;
+	}
+	#Rectangle_23_it {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_23_it {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#download-line1_iu {
+		position: absolute;
+		width: 51px;
+		height: 51px;
+		left: 31px;
+		top: 5px;
+		overflow: visible;
+	}
+	#Rectangle_15_iv {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_15_iv {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 556px;
+		left: 111px;
+		top: 371px;
+	}
+	#SALE_1_iw {
+		position: absolute;
+		width: 329px;
+		height: 184.5px;
+		left: 129px;
+		top: 396px;
+		overflow: visible;
+	}
+	#EKSEKUTIF_KACA_PESAWAT__ix {
+		left: 159px;
+		top: 600px;
+		position: absolute;
+		overflow: visible;
+		width: 290px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(112,112,112,1);
+	}
+	#_FEATURE______Real_scale__HD___iy {
+		left: 152px;
+		top: 678px;
+		position: absolute;
+		overflow: visible;
+		width: 284px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_16_iz {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_16_iz {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 556px;
+		left: 555px;
+		top: 371px;
+	}
+	#SALE_2_i {
+		position: absolute;
+		width: 329px;
+		height: 184.5px;
+		left: 573px;
+		top: 396px;
+		overflow: visible;
+	}
+	#NEW_BUSINESS_CLASS__i {
+		left: 616px;
+		top: 600px;
+		position: absolute;
+		overflow: visible;
+		width: 244px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(112,112,112,1);
+	}
+	#_FEATURE______Real_scale__HD___i {
+		left: 607px;
+		top: 678px;
+		position: absolute;
+		overflow: visible;
+		width: 253px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_17_i {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_17_i {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 556px;
+		left: 999px;
+		top: 372px;
+	}
+	#SALE_3_i {
+		position: absolute;
+		width: 329px;
+		height: 184.5px;
+		left: 1017px;
+		top: 397px;
+		overflow: visible;
+	}
+	#EKONOMI_AC_CENTRAL__i {
+		left: 1072px;
+		top: 600px;
+		position: absolute;
+		overflow: visible;
+		width: 246px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(112,112,112,1);
+	}
+	#_FEATURE______Real_scale__HD___ja {
+		left: 1051px;
+		top: 679px;
+		position: absolute;
+		overflow: visible;
+		width: 287px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_18_i {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_18_i {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 556px;
+		left: 1443px;
+		top: 372px;
+	}
+	#SALE_4_i {
+		position: absolute;
+		width: 329px;
+		height: 184.5px;
+		left: 1461px;
+		top: 397px;
+		overflow: visible;
+	}
+	#_KERETA_EKONOMI__i {
+		left: 1527px;
+		top: 600px;
+		position: absolute;
+		overflow: visible;
+		width: 197px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(112,112,112,1);
+	}
+	#_FEATURE______Real_scale__HD___jb {
+		left: 1493px;
+		top: 677px;
+		position: absolute;
+		overflow: visible;
+		width: 287px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_54_jb {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_54_jb {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 556px;
+		left: 111px;
+		top: 1069px;
+	}
+	#SALE_1_jc {
+		position: absolute;
+		width: 329px;
+		height: 184.5px;
+		left: 129px;
+		top: 1094px;
+		overflow: visible;
+	}
+	#EKSEKUTIF_KACA_PESAWAT__jd {
+		left: 159px;
+		top: 1298px;
+		position: absolute;
+		overflow: visible;
+		width: 290px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(112,112,112,1);
+	}
+	#_FEATURE______Real_scale__HD___je {
+		left: 152px;
+		top: 1376px;
+		position: absolute;
+		overflow: visible;
+		width: 284px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_55_jf {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_55_jf {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 556px;
+		left: 555px;
+		top: 1069px;
+	}
+	#SALE_2_jg {
+		position: absolute;
+		width: 329px;
+		height: 184.5px;
+		left: 573px;
+		top: 1094px;
+		overflow: visible;
+	}
+	#NEW_BUSINESS_CLASS__jh {
+		left: 616px;
+		top: 1298px;
+		position: absolute;
+		overflow: visible;
+		width: 244px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(112,112,112,1);
+	}
+	#_FEATURE______Real_scale__HD___ji {
+		left: 607px;
+		top: 1376px;
+		position: absolute;
+		overflow: visible;
+		width: 253px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_56_jj {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_56_jj {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 556px;
+		left: 999px;
+		top: 1070px;
+	}
+	#SALE_3_jk {
+		position: absolute;
+		width: 329px;
+		height: 184.5px;
+		left: 1017px;
+		top: 1095px;
+		overflow: visible;
+	}
+	#EKONOMI_AC_CENTRAL__jl {
+		left: 1072px;
+		top: 1298px;
+		position: absolute;
+		overflow: visible;
+		width: 246px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(112,112,112,1);
+	}
+	#_FEATURE______Real_scale__HD___jm {
+		left: 1051px;
+		top: 1377px;
+		position: absolute;
+		overflow: visible;
+		width: 287px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_57_jn {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_57_jn {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 556px;
+		left: 1443px;
+		top: 1070px;
+	}
+	#SALE_4_jo {
+		position: absolute;
+		width: 329px;
+		height: 184.5px;
+		left: 1461px;
+		top: 1095px;
+		overflow: visible;
+	}
+	#_KERETA_EKONOMI__jp {
+		left: 1527px;
+		top: 1298px;
+		position: absolute;
+		overflow: visible;
+		width: 197px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(112,112,112,1);
+	}
+	#_FEATURE______Real_scale__HD___jq {
+		left: 1493px;
+		top: 1375px;
+		position: absolute;
+		overflow: visible;
+		width: 287px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_58_jr {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_58_jr {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 556px;
+		left: 111px;
+		top: 1767px;
+	}
+	#SALE_1_js {
+		position: absolute;
+		width: 329px;
+		height: 184.5px;
+		left: 129px;
+		top: 1792px;
+		overflow: visible;
+	}
+	#EKSEKUTIF_KACA_PESAWAT__jt {
+		left: 159px;
+		top: 1996px;
+		position: absolute;
+		overflow: visible;
+		width: 290px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(112,112,112,1);
+	}
+	#_FEATURE______Real_scale__HD___ju {
+		left: 152px;
+		top: 2074px;
+		position: absolute;
+		overflow: visible;
+		width: 284px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_59_jv {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_59_jv {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 556px;
+		left: 555px;
+		top: 1767px;
+	}
+	#SALE_2_jw {
+		position: absolute;
+		width: 329px;
+		height: 184.5px;
+		left: 573px;
+		top: 1792px;
+		overflow: visible;
+	}
+	#NEW_BUSINESS_CLASS__jx {
+		left: 616px;
+		top: 1996px;
+		position: absolute;
+		overflow: visible;
+		width: 244px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(112,112,112,1);
+	}
+	#_FEATURE______Real_scale__HD___jy {
+		left: 607px;
+		top: 2074px;
+		position: absolute;
+		overflow: visible;
+		width: 253px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_60_jz {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_60_jz {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 556px;
+		left: 999px;
+		top: 1768px;
+	}
+	#SALE_3_j {
+		position: absolute;
+		width: 329px;
+		height: 184.5px;
+		left: 1017px;
+		top: 1793px;
+		overflow: visible;
+	}
+	#EKONOMI_AC_CENTRAL__j {
+		left: 1072px;
+		top: 1996px;
+		position: absolute;
+		overflow: visible;
+		width: 246px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(112,112,112,1);
+	}
+	#_FEATURE______Real_scale__HD___j {
+		left: 1051px;
+		top: 2075px;
+		position: absolute;
+		overflow: visible;
+		width: 287px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_61_j {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_61_j {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 556px;
+		left: 1443px;
+		top: 1768px;
+	}
+	#SALE_4_j {
+		position: absolute;
+		width: 329px;
+		height: 184.5px;
+		left: 1461px;
+		top: 1793px;
+		overflow: visible;
+	}
+	#_KERETA_EKONOMI__j {
+		left: 1527px;
+		top: 1996px;
+		position: absolute;
+		overflow: visible;
+		width: 197px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(112,112,112,1);
+	}
+	#_FEATURE______Real_scale__HD___ka {
+		left: 1493px;
+		top: 2073px;
+		position: absolute;
+		overflow: visible;
+		width: 287px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(112,112,112,1);
+	}
+	#Group_35 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 1570px;
+		top: 2351px;
+		overflow: visible;
+	}
+	#Rectangle_23_j {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_23_j {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#download-line1_j {
+		position: absolute;
+		width: 51px;
+		height: 51px;
+		left: 31px;
+		top: 5px;
+		overflow: visible;
+	}
+	#Group_36 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 1128px;
+		top: 2351px;
+		overflow: visible;
+	}
+	#Rectangle_23_kb {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_23_kb {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#download-line1_kc {
+		position: absolute;
+		width: 51px;
+		height: 51px;
+		left: 31px;
+		top: 5px;
+		overflow: visible;
+	}
+	#Group_37 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 671px;
+		top: 2351px;
+		overflow: visible;
+	}
+	#Rectangle_23_ke {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_23_ke {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#download-line1_kf {
+		position: absolute;
+		width: 51px;
+		height: 51px;
+		left: 31px;
+		top: 5px;
+		overflow: visible;
+	}
+	#Group_38 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 1570px;
+		top: 2351px;
+		overflow: visible;
+	}
+	#Rectangle_23_kh {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_23_kh {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#download-line1_ki {
+		position: absolute;
+		width: 51px;
+		height: 51px;
+		left: 31px;
+		top: 5px;
+		overflow: visible;
+	}
+	#Group_39 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 671px;
+		top: 2351px;
+		overflow: visible;
+	}
+	#Rectangle_23_kk {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_23_kk {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#download-line1_kl {
+		position: absolute;
+		width: 51px;
+		height: 51px;
+		left: 31px;
+		top: 5px;
+		overflow: visible;
+	}
+	#Group_40 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 237px;
+		top: 2351px;
+		overflow: visible;
+	}
+	#Rectangle_23_kn {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_23_kn {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#download-line1_ko {
+		position: absolute;
+		width: 51px;
+		height: 51px;
+		left: 31px;
+		top: 5px;
+		overflow: visible;
+	}
+	#Group_41 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 1570px;
+		top: 1651px;
+		overflow: visible;
+	}
+	#Rectangle_23_kq {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_23_kq {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#download-line1_kr {
+		position: absolute;
+		width: 51px;
+		height: 51px;
+		left: 31px;
+		top: 5px;
+		overflow: visible;
+	}
+	#Group_51 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 1570px;
+		top: 953px;
+		overflow: visible;
+	}
+	#Rectangle_23_kt {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_23_kt {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#download-line1_ku {
+		position: absolute;
+		width: 51px;
+		height: 51px;
+		left: 31px;
+		top: 5px;
+		overflow: visible;
+	}
+	#Group_42 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 1128px;
+		top: 1651px;
+		overflow: visible;
+	}
+	#Rectangle_23_kw {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_23_kw {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#download-line1_kx {
+		position: absolute;
+		width: 51px;
+		height: 51px;
+		left: 31px;
+		top: 5px;
+		overflow: visible;
+	}
+	#Group_50 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 1128px;
+		top: 953px;
+		overflow: visible;
+	}
+	#Rectangle_23_kz {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_23_kz {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#download-line1_k {
+		position: absolute;
+		width: 51px;
+		height: 51px;
+		left: 31px;
+		top: 5px;
+		overflow: visible;
+	}
+	#Group_43 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 671px;
+		top: 1651px;
+		overflow: visible;
+	}
+	#Rectangle_23_k {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_23_k {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#download-line1_la {
+		position: absolute;
+		width: 51px;
+		height: 51px;
+		left: 31px;
+		top: 5px;
+		overflow: visible;
+	}
+	#Group_48 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 671px;
+		top: 953px;
+		overflow: visible;
+	}
+	#Rectangle_23_la {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_23_la {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#download-line1_lb {
+		position: absolute;
+		width: 51px;
+		height: 51px;
+		left: 31px;
+		top: 5px;
+		overflow: visible;
+	}
+	#Group_44 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 1570px;
+		top: 1651px;
+		overflow: visible;
+	}
+	#Rectangle_23_lb {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_23_lb {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#download-line1_lc {
+		position: absolute;
+		width: 51px;
+		height: 51px;
+		left: 31px;
+		top: 5px;
+		overflow: visible;
+	}
+	#Group_52 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 1570px;
+		top: 953px;
+		overflow: visible;
+	}
+	#Rectangle_23_lc {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_23_lc {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#download-line1_ld {
+		position: absolute;
+		width: 51px;
+		height: 51px;
+		left: 31px;
+		top: 5px;
+		overflow: visible;
+	}
+	#Group_45 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 671px;
+		top: 1651px;
+		overflow: visible;
+	}
+	#Rectangle_23_le {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_23_le {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#download-line1_lf {
+		position: absolute;
+		width: 51px;
+		height: 51px;
+		left: 31px;
+		top: 5px;
+		overflow: visible;
+	}
+	#Group_49 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 671px;
+		top: 953px;
+		overflow: visible;
+	}
+	#Rectangle_23_lh {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_23_lh {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#download-line1_li {
+		position: absolute;
+		width: 51px;
+		height: 51px;
+		left: 31px;
+		top: 5px;
+		overflow: visible;
+	}
+	#Group_46 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 237px;
+		top: 1651px;
+		overflow: visible;
+	}
+	#Rectangle_23_lk {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_23_lk {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#download-line1_ll {
+		position: absolute;
+		width: 51px;
+		height: 51px;
+		left: 31px;
+		top: 5px;
+		overflow: visible;
+	}
+	#Group_47 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 237px;
+		top: 953px;
+		overflow: visible;
+	}
+	#Rectangle_23_ln {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_23_ln {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#download-line1_lo {
+		position: absolute;
+		width: 51px;
+		height: 51px;
+		left: 31px;
+		top: 5px;
+		overflow: visible;
+	}
+	#Group_53 {
+		position: absolute;
+		width: 1977px;
+		height: 269px;
+		left: -57px;
+		top: 3118px;
+		overflow: visible;
+	}
+	#Rectangle_49_lq {
+		fill: rgba(112,112,112,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_49_lq {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 269px;
+		left: 57px;
+		top: 0px;
+	}
+	#GETA_LOGO_PUTIH_lr {
+		filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		width: 403px;
+		height: 78px;
+		left: 0px;
+		top: 96px;
+		overflow: visible;
+	}
+	#Payware_ls {
+		left: 349px;
+		top: 83px;
+		position: absolute;
+		overflow: visible;
+		width: 77px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Freeware_lt {
+		left: 349px;
+		top: 122px;
+		position: absolute;
+		overflow: visible;
+		width: 82px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Gallery__lu {
+		left: 349px;
+		top: 161px;
+		position: absolute;
+		overflow: visible;
+		width: 69px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Contact_lv {
+		left: 477px;
+		top: 83px;
+		position: absolute;
+		overflow: visible;
+		width: 79px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#How_To_Buy_lw {
+		left: 477px;
+		top: 122px;
+		position: absolute;
+		overflow: visible;
+		width: 107px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Tutorial_lx {
+		left: 477px;
+		top: 161px;
+		position: absolute;
+		overflow: visible;
+		width: 71px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Payment_Method_ly {
+		left: 607px;
+		top: 83px;
+		position: absolute;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Faq_lz {
+		left: 607px;
+		top: 122px;
+		position: absolute;
+		overflow: visible;
+		width: 38px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#_Geta_Production__2020_l {
+		left: 938px;
+		top: 201px;
+		position: absolute;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(190,190,190,1);
+	}
+	#Created_by_Ratsa_Creative_l {
+		left: 973px;
+		top: 219px;
+		position: absolute;
+		overflow: visible;
+		width: 89px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 8px;
+		color: rgba(190,190,190,1);
+	}
+}
+@media (min-width: 1920px) {
+	.mediaViewInfo {
+		--web-view-name: TUTOR PAGE;
+		--web-view-id: TUTOR_PAGE;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#TUTOR_PAGE {
+		position: absolute;
+		display: block;
+		width: 1920px;
+		height: 1543px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: TUTOR PAGE;
+		--web-view-id: TUTOR_PAGE;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#GETA_2_HEADER_l {
+		filter: blur(10px);
+		position: absolute;
+		width: 1920px;
+		height: 122px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#GETA_LOGO_PUTIH_l {
+		filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		width: 414px;
+		height: 80px;
+		left: -12px;
+		top: 37px;
+		overflow: visible;
+	}
+	#Contact_l {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1645px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 89px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#Tutorial_l {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1542px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 80px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#Freeware_l {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1425px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 94px;
+		white-space: nowrap;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: FREEWARE_PAGE;
+		cursor: pointer;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#Payware_l {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1315px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 87px;
+		white-space: nowrap;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: PAYWARE_PAGE;
+		cursor: pointer;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#TUTORIAL {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		left: 816px;
+		top: 342px;
+		position: absolute;
+		overflow: visible;
+		width: 289px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Cocogoose;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 54px;
+		color: rgba(255,88,88,1);
+	}
+	#Rectangle_35_mc {
+		fill: url(#Rectangle_35_mc);
+	}
+	.Rectangle_35_mc {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 152px;
+		height: 61px;
+		left: 1753px;
+		top: 25px;
+	}
+	#How_To_Buy_md {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1764px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 113px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 23px;
+		color: rgba(255,255,255,1);
+	}
+	#Rectangle_43 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_43 {
+		filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 810px;
+		height: 70px;
+		left: 564px;
+		top: 465px;
+	}
+	#MENGATASI_BOGIE_HILANG_HANYA_T {
+		left: 651px;
+		top: 475px;
+		position: absolute;
+		overflow: visible;
+		width: 614px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_44 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_44 {
+		filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 810px;
+		height: 70px;
+		left: 564px;
+		top: 544px;
+	}
+	#BERJALAN_DI_INTERIOR_MENGGUNAK {
+		left: 683px;
+		top: 554px;
+		position: absolute;
+		overflow: visible;
+		width: 556px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_45 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_45 {
+		filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 810px;
+		height: 70px;
+		left: 566px;
+		top: 623px;
+	}
+	#TIPS_MEMPERKECIL_UKURAN_FILE_G {
+		left: 579px;
+		top: 633px;
+		position: absolute;
+		overflow: visible;
+		width: 764px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_46 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_46 {
+		filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 810px;
+		height: 70px;
+		left: 566px;
+		top: 702px;
+	}
+	#TUTORIAL_MEMASUKAN_ADD_ON_TRAI {
+		left: 621px;
+		top: 712px;
+		position: absolute;
+		overflow: visible;
+		width: 679px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(112,112,112,1);
+	}
+	#Group_53_mm {
+		position: absolute;
+		width: 1977px;
+		height: 269px;
+		left: -57px;
+		top: 1274px;
+		overflow: visible;
+	}
+	#Rectangle_49_mn {
+		fill: rgba(112,112,112,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_49_mn {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 269px;
+		left: 57px;
+		top: 0px;
+	}
+	#GETA_LOGO_PUTIH_mo {
+		filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		width: 403px;
+		height: 78px;
+		left: 0px;
+		top: 96px;
+		overflow: visible;
+	}
+	#Payware_mp {
+		left: 349px;
+		top: 83px;
+		position: absolute;
+		overflow: visible;
+		width: 77px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Freeware_mq {
+		left: 349px;
+		top: 122px;
+		position: absolute;
+		overflow: visible;
+		width: 82px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Gallery__mr {
+		left: 349px;
+		top: 161px;
+		position: absolute;
+		overflow: visible;
+		width: 69px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Contact_ms {
+		left: 477px;
+		top: 83px;
+		position: absolute;
+		overflow: visible;
+		width: 79px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#How_To_Buy_mt {
+		left: 477px;
+		top: 122px;
+		position: absolute;
+		overflow: visible;
+		width: 107px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Tutorial_mu {
+		left: 477px;
+		top: 161px;
+		position: absolute;
+		overflow: visible;
+		width: 71px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Payment_Method_mv {
+		left: 607px;
+		top: 83px;
+		position: absolute;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Faq_mw {
+		left: 607px;
+		top: 122px;
+		position: absolute;
+		overflow: visible;
+		width: 38px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#_Geta_Production__2020_mx {
+		left: 938px;
+		top: 201px;
+		position: absolute;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(190,190,190,1);
+	}
+	#Created_by_Ratsa_Creative_my {
+		left: 973px;
+		top: 219px;
+		position: absolute;
+		overflow: visible;
+		width: 89px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 8px;
+		color: rgba(190,190,190,1);
+	}
+}
+@media (min-width: 1920px) {
+	.mediaViewInfo {
+		--web-view-name: CONTACT PAGE;
+		--web-view-id: CONTACT_PAGE;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#CONTACT_PAGE {
+		position: absolute;
+		display: block;
+		width: 1920px;
+		height: 1294px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: CONTACT PAGE;
+		--web-view-id: CONTACT_PAGE;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#GETA_2_HEADER_m {
+		filter: blur(10px);
+		position: absolute;
+		width: 1920px;
+		height: 122px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#GETA_LOGO_PUTIH_m {
+		filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		width: 414px;
+		height: 80px;
+		left: -12px;
+		top: 37px;
+		overflow: visible;
+	}
+	#Contact_m {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1645px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 89px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#Tutorial_m {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1542px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 80px;
+		white-space: nowrap;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: TUTOR_PAGE;
+		cursor: pointer;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#Freeware_m {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1425px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 94px;
+		white-space: nowrap;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: FREEWARE_PAGE;
+		cursor: pointer;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#Payware_m {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1315px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 87px;
+		white-space: nowrap;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: PAYWARE_PAGE;
+		cursor: pointer;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#CONTACT {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		left: 826px;
+		top: 164px;
+		position: absolute;
+		overflow: visible;
+		width: 269px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Cocogoose;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 54px;
+		color: rgba(255,88,88,1);
+	}
+	#Rectangle_35_na {
+		fill: url(#Rectangle_35_na);
+	}
+	.Rectangle_35_na {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 152px;
+		height: 61px;
+		left: 1753px;
+		top: 25px;
+	}
+	#How_To_Buy_na {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1764px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 113px;
+		white-space: nowrap;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: HOW_TO_BUY;
+		cursor: pointer;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 23px;
+		color: rgba(255,255,255,1);
+	}
+	#whatsapp-fill {
+		position: absolute;
+		width: 64px;
+		height: 64px;
+		left: 164px;
+		top: 317px;
+		overflow: visible;
+	}
+	#ID081228054155 {
+		left: 233px;
+		top: 340px;
+		position: absolute;
+		overflow: visible;
+		width: 200px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 37px;
+		color: rgba(112,112,112,1);
+	}
+	#Whatsapp {
+		left: 233px;
+		top: 314px;
+		position: absolute;
+		overflow: visible;
+		width: 96px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(112,112,112,1);
+	}
+	#line-fill {
+		position: absolute;
+		width: 64px;
+		height: 64px;
+		left: 164px;
+		top: 403px;
+		overflow: visible;
+	}
+	#alam_geta {
+		left: 233px;
+		top: 426px;
+		position: absolute;
+		overflow: visible;
+		width: 162px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 37px;
+		color: rgba(112,112,112,1);
+	}
+	#Line {
+		left: 233px;
+		top: 400px;
+		position: absolute;
+		overflow: visible;
+		width: 38px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(112,112,112,1);
+	}
+	#instagram-fill {
+		position: absolute;
+		width: 64px;
+		height: 64px;
+		left: 164px;
+		top: 489px;
+		overflow: visible;
+	}
+	#alam_nurulhuda {
+		left: 233px;
+		top: 512px;
+		position: absolute;
+		overflow: visible;
+		width: 264px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 37px;
+		color: rgba(112,112,112,1);
+	}
+	#Instagram {
+		left: 233px;
+		top: 486px;
+		position: absolute;
+		overflow: visible;
+		width: 93px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(112,112,112,1);
+	}
+	#instagram-fill_nk {
+		position: absolute;
+		width: 64px;
+		height: 64px;
+		left: 164px;
+		top: 575px;
+		overflow: visible;
+	}
+	#geta_production {
+		left: 233px;
+		top: 598px;
+		position: absolute;
+		overflow: visible;
+		width: 286px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 37px;
+		color: rgba(112,112,112,1);
+	}
+	#Instagram_nm {
+		left: 233px;
+		top: 572px;
+		position: absolute;
+		overflow: visible;
+		width: 93px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(112,112,112,1);
+	}
+	#facebook-circle-fill {
+		position: absolute;
+		width: 64px;
+		height: 64px;
+		left: 164px;
+		top: 661px;
+		overflow: visible;
+	}
+	#Geta_Production_no {
+		left: 233px;
+		top: 684px;
+		position: absolute;
+		overflow: visible;
+		width: 256px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 37px;
+		color: rgba(112,112,112,1);
+	}
+	#Fanspage {
+		left: 233px;
+		top: 658px;
+		position: absolute;
+		overflow: visible;
+		width: 88px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(112,112,112,1);
+	}
+	#youtube-fill {
+		position: absolute;
+		width: 64px;
+		height: 64px;
+		left: 164px;
+		top: 747px;
+		overflow: visible;
+	}
+	#Alam_Nurulhuda_nr {
+		left: 233px;
+		top: 770px;
+		position: absolute;
+		overflow: visible;
+		width: 238px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 37px;
+		color: rgba(112,112,112,1);
+	}
+	#Youtube {
+		left: 233px;
+		top: 744px;
+		position: absolute;
+		overflow: visible;
+		width: 78px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_47 {
+		fill: rgba(112,112,112,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_47 {
+		position: absolute;
+		overflow: visible;
+		width: 14px;
+		height: 494px;
+		left: 1214px;
+		top: 317px;
+	}
+	#LOGO_ALAM {
+		filter: drop-shadow(0px 5px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		width: 188px;
+		height: 188px;
+		left: 1425px;
+		top: 426px;
+		overflow: visible;
+	}
+	#Alam_Nurulhuda_nv {
+		left: 1401px;
+		top: 620px;
+		position: absolute;
+		overflow: visible;
+		width: 238px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 37px;
+		color: rgba(112,112,112,1);
+	}
+	#Founder {
+		left: 1486px;
+		top: 665px;
+		position: absolute;
+		overflow: visible;
+		width: 68px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(112,112,112,1);
+	}
+	#Group_53_nx {
+		position: absolute;
+		width: 1977px;
+		height: 269px;
+		left: -57px;
+		top: 1025px;
+		overflow: visible;
+	}
+	#Rectangle_49_ny {
+		fill: rgba(112,112,112,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_49_ny {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 269px;
+		left: 57px;
+		top: 0px;
+	}
+	#GETA_LOGO_PUTIH_nz {
+		filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		width: 403px;
+		height: 78px;
+		left: 0px;
+		top: 96px;
+		overflow: visible;
+	}
+	#Payware_n {
+		left: 349px;
+		top: 83px;
+		position: absolute;
+		overflow: visible;
+		width: 77px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Freeware_n {
+		left: 349px;
+		top: 122px;
+		position: absolute;
+		overflow: visible;
+		width: 82px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Gallery__n {
+		left: 349px;
+		top: 161px;
+		position: absolute;
+		overflow: visible;
+		width: 69px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Contact_n {
+		left: 477px;
+		top: 83px;
+		position: absolute;
+		overflow: visible;
+		width: 79px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#How_To_Buy_n {
+		left: 477px;
+		top: 122px;
+		position: absolute;
+		overflow: visible;
+		width: 107px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Tutorial_n {
+		left: 477px;
+		top: 161px;
+		position: absolute;
+		overflow: visible;
+		width: 71px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Payment_Method_n {
+		left: 607px;
+		top: 83px;
+		position: absolute;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Faq_n {
+		left: 607px;
+		top: 122px;
+		position: absolute;
+		overflow: visible;
+		width: 38px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#_Geta_Production__2020_n {
+		left: 938px;
+		top: 201px;
+		position: absolute;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(190,190,190,1);
+	}
+	#Created_by_Ratsa_Creative_n {
+		left: 973px;
+		top: 219px;
+		position: absolute;
+		overflow: visible;
+		width: 89px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 8px;
+		color: rgba(190,190,190,1);
+	}
+}
+@media (min-width: 1920px) {
+	.mediaViewInfo {
+		--web-view-name: HOW TO BUY;
+		--web-view-id: HOW_TO_BUY;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#HOW_TO_BUY {
+		position: absolute;
+		display: block;
+		width: 1920px;
+		height: 1543px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: HOW TO BUY;
+		--web-view-id: HOW_TO_BUY;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#GETA_2_HEADER_oc {
+		filter: blur(10px);
+		position: absolute;
+		width: 1920px;
+		height: 122px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#GETA_LOGO_PUTIH_od {
+		filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		width: 414px;
+		height: 80px;
+		left: -12px;
+		top: 37px;
+		overflow: visible;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: MAIN_PAGE;
+		cursor: pointer;
+	}
+	#Contact_oe {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1645px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 89px;
+		white-space: nowrap;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: CONTACT_PAGE;
+		cursor: pointer;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#Tutorial_of {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1542px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 80px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#Freeware_og {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1425px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 94px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#Payware_oh {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1315px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 87px;
+		white-space: nowrap;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: PAYWARE_PAGE;
+		cursor: pointer;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#HOW_TO_BUY_oi {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		left: 772px;
+		top: 164px;
+		position: absolute;
+		overflow: visible;
+		width: 377px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Cocogoose;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 54px;
+		color: rgba(255,88,88,1);
+	}
+	#Rectangle_35_ok {
+		fill: url(#Rectangle_35_ok);
+	}
+	.Rectangle_35_ok {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 152px;
+		height: 61px;
+		left: 1753px;
+		top: 25px;
+	}
+	#How_To_Buy_ol {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1764px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 113px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 23px;
+		color: rgba(255,255,255,1);
+	}
+	#Ikuti_Gambar_Dan_Panduan_Berik {
+		left: 159px;
+		top: 291px;
+		position: absolute;
+		overflow: visible;
+		width: 487px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 31px;
+		color: rgba(112,112,112,1);
+	}
+	#TUTOR {
+		position: absolute;
+		width: 117px;
+		height: 77px;
+		left: 180px;
+		top: 396px;
+		overflow: visible;
+	}
+	#ID1_Pada_saat_di_Main_Page__Ha {
+		left: 159px;
+		top: 359px;
+		position: absolute;
+		overflow: visible;
+		width: 570px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(112,112,112,1);
+	}
+	#ID2_Pilih_Add_on_yang_diingink {
+		left: 159px;
+		top: 484px;
+		position: absolute;
+		overflow: visible;
+		width: 832px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(112,112,112,1);
+	}
+	#Group_5 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 182px;
+		top: 521px;
+		overflow: visible;
+	}
+	#Rectangle_48 {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_48 {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#shopping-cart-fill_os {
+		position: absolute;
+		width: 52px;
+		height: 52px;
+		left: 31px;
+		top: 4px;
+		overflow: visible;
+	}
+	#ID3_Kemudian_pilih_menu_Checko {
+		left: 159px;
+		top: 592px;
+		position: absolute;
+		overflow: visible;
+		width: 484px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(112,112,112,1);
+	}
+	#Group_6 {
+		position: absolute;
+		width: 115px;
+		height: 60px;
+		left: 180px;
+		top: 629px;
+		overflow: visible;
+	}
+	#Rectangle_24_ow {
+		fill: url(#Rectangle_24_ow);
+	}
+	.Rectangle_24_ow {
+		position: absolute;
+		overflow: visible;
+		width: 115px;
+		height: 60px;
+		left: 0px;
+		top: 0px;
+	}
+	#cashier-machine_ox {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		width: 29px;
+		height: 29px;
+		left: 43px;
+		top: 8px;
+		overflow: visible;
+	}
+	#Checkout_oy {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		left: 26px;
+		top: 40px;
+		position: absolute;
+		overflow: visible;
+		width: 65px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Cocogoose;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(255,255,255,1);
+	}
+	#ID5_Ikuti_alur_dan_proses_Chec {
+		left: 159px;
+		top: 737px;
+		position: absolute;
+		overflow: visible;
+		width: 307px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(112,112,112,1);
+	}
+	#ID4_Pilih_Payment_untuk_melaku {
+		left: 159px;
+		top: 700px;
+		position: absolute;
+		overflow: visible;
+		width: 491px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(112,112,112,1);
+	}
+	#ID6_Add_on_akan_terkirim_via_g {
+		left: 159px;
+		top: 774px;
+		position: absolute;
+		overflow: visible;
+		width: 612px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(112,112,112,1);
+	}
+	#Group_53_o {
+		position: absolute;
+		width: 1977px;
+		height: 269px;
+		left: -57px;
+		top: 1274px;
+		overflow: visible;
+	}
+	#Rectangle_49_o {
+		fill: rgba(112,112,112,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_49_o {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 269px;
+		left: 57px;
+		top: 0px;
+	}
+	#GETA_LOGO_PUTIH_o {
+		filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		width: 403px;
+		height: 78px;
+		left: 0px;
+		top: 96px;
+		overflow: visible;
+	}
+	#Payware_o {
+		left: 349px;
+		top: 83px;
+		position: absolute;
+		overflow: visible;
+		width: 77px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Freeware_o {
+		left: 349px;
+		top: 122px;
+		position: absolute;
+		overflow: visible;
+		width: 82px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Gallery__o {
+		left: 349px;
+		top: 161px;
+		position: absolute;
+		overflow: visible;
+		width: 69px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Contact_o {
+		left: 477px;
+		top: 83px;
+		position: absolute;
+		overflow: visible;
+		width: 79px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#How_To_Buy_o {
+		left: 477px;
+		top: 122px;
+		position: absolute;
+		overflow: visible;
+		width: 107px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Tutorial_pa {
+		left: 477px;
+		top: 161px;
+		position: absolute;
+		overflow: visible;
+		width: 71px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Payment_Method_pb {
+		left: 607px;
+		top: 83px;
+		position: absolute;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Faq_pc {
+		left: 607px;
+		top: 122px;
+		position: absolute;
+		overflow: visible;
+		width: 38px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#_Geta_Production__2020_pd {
+		left: 938px;
+		top: 201px;
+		position: absolute;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(190,190,190,1);
+	}
+	#Created_by_Ratsa_Creative_pe {
+		left: 973px;
+		top: 219px;
+		position: absolute;
+		overflow: visible;
+		width: 89px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 8px;
+		color: rgba(190,190,190,1);
+	}
+}
+@media (min-width: 1920px) {
+	.mediaViewInfo {
+		--web-view-name: ARTICLE PAGE;
+		--web-view-id: ARTICLE_PAGE;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#ARTICLE_PAGE {
+		position: absolute;
+		display: block;
+		width: 1920px;
+		height: 1414px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: ARTICLE PAGE;
+		--web-view-id: ARTICLE_PAGE;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#GETA_2_HEADER_ph {
+		filter: blur(10px);
+		position: absolute;
+		width: 1920px;
+		height: 122px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#GETA_LOGO_PUTIH_pi {
+		filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		width: 414px;
+		height: 80px;
+		left: -12px;
+		top: 37px;
+		overflow: visible;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: MAIN_PAGE;
+		cursor: pointer;
+	}
+	#Contact_pj {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1645px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 89px;
+		white-space: nowrap;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: CONTACT_PAGE;
+		cursor: pointer;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#Tutorial_pk {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1542px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 80px;
+		white-space: nowrap;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: TUTOR_PAGE;
+		cursor: pointer;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#Freeware_pl {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1425px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 94px;
+		white-space: nowrap;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: PAYWARE_PAGE;
+		cursor: pointer;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#Payware_pm {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1315px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 87px;
+		white-space: nowrap;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: PAYWARE_PAGE;
+		cursor: pointer;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#Rectangle_35_po {
+		fill: url(#Rectangle_35_po);
+	}
+	.Rectangle_35_po {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 152px;
+		height: 61px;
+		left: 1753px;
+		top: 25px;
+	}
+	#How_To_Buy_pp {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1764px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 113px;
+		white-space: nowrap;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: HOW_TO_BUY;
+		cursor: pointer;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 23px;
+		color: rgba(255,255,255,1);
+	}
+	#SALE_4_pq {
+		position: absolute;
+		width: 450px;
+		height: 252.5px;
+		left: 113px;
+		top: 252px;
+		overflow: visible;
+	}
+	#_KERETA_EKONOMI__pr {
+		left: 105px;
+		top: 186px;
+		position: absolute;
+		overflow: visible;
+		width: 331px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 42px;
+		color: rgba(112,112,112,1);
+	}
+	#Kereta_api_ekonomi_adalah_kere {
+		left: 600px;
+		top: 254px;
+		position: absolute;
+		overflow: visible;
+		width: 1032px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(112,112,112,1);
+	}
+	#_FEATURE______Real_scale__HD___pt {
+		left: 600px;
+		top: 540px;
+		position: absolute;
+		overflow: visible;
+		width: 422px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(112,112,112,1);
+	}
+	#COMPATIBLE_ON_______Trainz_Sim {
+		left: 1067px;
+		top: 540px;
+		position: absolute;
+		overflow: visible;
+		width: 335px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(112,112,112,1);
+	}
+	#Price_ {
+		left: 134px;
+		top: 540px;
+		position: absolute;
+		overflow: visible;
+		width: 99px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 40px;
+		color: rgba(112,112,112,1);
+	}
+	#IDR30000_pw {
+		left: 134px;
+		top: 588px;
+		position: absolute;
+		overflow: visible;
+		width: 127px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 32px;
+		color: rgba(254,104,104,1);
+	}
+	#Group_8 {
+		position: absolute;
+		width: 113px;
+		height: 60px;
+		left: 134px;
+		top: 840px;
+		overflow: visible;
+	}
+	#Rectangle_42_py {
+		fill: rgba(254,104,104,1);
+	}
+	.Rectangle_42_py {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		height: 78px;
+		left: 0px;
+		top: 0px;
+	}
+	#shopping-cart-fill_pz {
+		position: absolute;
+		width: 52px;
+		height: 52px;
+		left: 31px;
+		top: 4px;
+		overflow: visible;
+	}
+	#ORDER_HERE_ {
+		left: 134px;
+		top: 799px;
+		position: absolute;
+		overflow: visible;
+		width: 147px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(112,112,112,1);
+	}
+	#Ellipse_1 {
+		fill: rgba(112,112,112,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_1 {
+		position: absolute;
+		overflow: visible;
+		width: 11px;
+		height: 11px;
+		left: 304px;
+		top: 515px;
+	}
+	#Ellipse_2 {
+		fill: rgba(112,112,112,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_2 {
+		position: absolute;
+		overflow: visible;
+		width: 11px;
+		height: 11px;
+		left: 317px;
+		top: 515px;
+	}
+	#Ellipse_3 {
+		fill: rgba(112,112,112,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_3 {
+		position: absolute;
+		overflow: visible;
+		width: 11px;
+		height: 11px;
+		left: 330px;
+		top: 515px;
+	}
+	#Ellipse_4 {
+		fill: rgba(112,112,112,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_4 {
+		position: absolute;
+		overflow: visible;
+		width: 11px;
+		height: 11px;
+		left: 343px;
+		top: 515px;
+	}
+	#Ellipse_5 {
+		fill: rgba(112,112,112,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_5 {
+		position: absolute;
+		overflow: visible;
+		width: 16px;
+		height: 16px;
+		left: 356px;
+		top: 513px;
+	}
+	#Group_53_p {
+		position: absolute;
+		width: 1977px;
+		height: 269px;
+		left: -57px;
+		top: 1145px;
+		overflow: visible;
+	}
+	#Rectangle_49_p {
+		fill: rgba(112,112,112,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_49_p {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 269px;
+		left: 57px;
+		top: 0px;
+	}
+	#GETA_LOGO_PUTIH_p {
+		filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		width: 403px;
+		height: 78px;
+		left: 0px;
+		top: 96px;
+		overflow: visible;
+	}
+	#Payware_p {
+		left: 349px;
+		top: 83px;
+		position: absolute;
+		overflow: visible;
+		width: 77px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Freeware_qa {
+		left: 349px;
+		top: 122px;
+		position: absolute;
+		overflow: visible;
+		width: 82px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Gallery__qb {
+		left: 349px;
+		top: 161px;
+		position: absolute;
+		overflow: visible;
+		width: 69px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Contact_qc {
+		left: 477px;
+		top: 83px;
+		position: absolute;
+		overflow: visible;
+		width: 79px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#How_To_Buy_qd {
+		left: 477px;
+		top: 122px;
+		position: absolute;
+		overflow: visible;
+		width: 107px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Tutorial_qe {
+		left: 477px;
+		top: 161px;
+		position: absolute;
+		overflow: visible;
+		width: 71px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Payment_Method_qf {
+		left: 607px;
+		top: 83px;
+		position: absolute;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#Faq_qg {
+		left: 607px;
+		top: 122px;
+		position: absolute;
+		overflow: visible;
+		width: 38px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(190,190,190,1);
+	}
+	#_Geta_Production__2020_qh {
+		left: 938px;
+		top: 201px;
+		position: absolute;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(190,190,190,1);
+	}
+	#Created_by_Ratsa_Creative_qi {
+		left: 973px;
+		top: 219px;
+		position: absolute;
+		overflow: visible;
+		width: 89px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 8px;
+		color: rgba(190,190,190,1);
+	}
+}
+@media (min-width: 1920px) {
+	.mediaViewInfo {
+		--web-view-name: CONTACT PAGE – 1;
+		--web-view-id: CONTACT_PAGE__1;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#CONTACT_PAGE__1 {
+		position: absolute;
+		display: block;
+		width: 1920px;
+		height: 1080px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: CONTACT PAGE – 1;
+		--web-view-id: CONTACT_PAGE__1;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	#GETA_2_HEADER_ql {
+		filter: blur(10px);
+		position: absolute;
+		width: 1920px;
+		height: 122px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#GETA_LOGO_PUTIH_qm {
+		filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		width: 414px;
+		height: 80px;
+		left: -12px;
+		top: 37px;
+		overflow: visible;
+	}
+	#Contact_qn {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1645px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 89px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#Tutorial_qo {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1542px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 80px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#Freeware_qp {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1425px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 94px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#Payware_qq {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1315px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 87px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#Rectangle_35_qs {
+		fill: url(#Rectangle_35_qs);
+	}
+	.Rectangle_35_qs {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 152px;
+		height: 61px;
+		left: 1753px;
+		top: 25px;
+	}
+	#How_To_Buy_qt {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 1764px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 113px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 23px;
+		color: rgba(255,255,255,1);
+	}
+}
+@media (min-width: 1920px) {
+	.mediaViewInfo {
+		--web-view-name: MAIN PAGE – 1;
+		--web-view-id: MAIN_PAGE__1;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#MAIN_PAGE__1 {
+		position: absolute;
+		display: block;
+		width: 1920px;
+		height: 3387px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: MAIN PAGE – 1;
+		--web-view-id: MAIN_PAGE__1;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	#Rectangle_49_qw {
+		fill: rgba(112,112,112,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_49_qw {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 209px;
+		left: 0px;
+		top: 3178px;
+	}
+	#GETA_LOGO_PUTIH_qx {
+		filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		width: 270px;
+		height: 53px;
+		left: 0px;
+		top: 3270px;
+		overflow: visible;
+	}
+	#Payware_qy {
+		left: 225px;
+		top: 3253px;
+		position: absolute;
+		overflow: visible;
+		width: 63px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(190,190,190,1);
+	}
+	#Freeware_qz {
+		left: 225px;
+		top: 3285px;
+		position: absolute;
+		overflow: visible;
+		width: 68px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(190,190,190,1);
+	}
+	#Gallery__q {
+		left: 225px;
+		top: 3318px;
+		position: absolute;
+		overflow: visible;
+		width: 57px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(190,190,190,1);
+	}
+	#Contact_q {
+		left: 331px;
+		top: 3253px;
+		position: absolute;
+		overflow: visible;
+		width: 65px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(190,190,190,1);
+	}
+	#How_To_Buy_q {
+		left: 331px;
+		top: 3285px;
+		position: absolute;
+		overflow: visible;
+		width: 89px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(190,190,190,1);
+	}
+	#Tutorial_q {
+		left: 331px;
+		top: 3318px;
+		position: absolute;
+		overflow: visible;
+		width: 59px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(190,190,190,1);
+	}
+	#Payment_Method_q {
+		left: 439px;
+		top: 3253px;
+		position: absolute;
+		overflow: visible;
+		width: 130px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(190,190,190,1);
+	}
+	#Faq_q {
+		left: 439px;
+		top: 3285px;
+		position: absolute;
+		overflow: visible;
+		width: 31px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(190,190,190,1);
+	}
+	#_Geta_Production__2020_q {
+		left: 897px;
+		top: 3329px;
+		position: absolute;
+		overflow: visible;
+		width: 127px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(190,190,190,1);
+	}
+	#Created_by_Ratsa_Creative_q {
+		left: 927px;
+		top: 3344px;
+		position: absolute;
+		overflow: visible;
+		width: 67px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 6px;
+		color: rgba(190,190,190,1);
+	}
+	#GETA_4_q {
+		filter: blur(5px);
+		position: absolute;
+		width: 1920px;
+		height: 1015px;
+		left: 0px;
+		top: 94px;
+		overflow: visible;
+	}
+	#Welcome_to_Geta_Production {
+		left: 1374px;
+		top: 196px;
+		position: absolute;
+		overflow: visible;
+		width: 431px;
+		white-space: nowrap;
+		text-align: right;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(112,112,112,1);
+	}
+	#Kami_menyediakan_addons_Trainz {
+		left: 1437px;
+		top: 305px;
+		position: absolute;
+		overflow: visible;
+		width: 368px;
+		white-space: nowrap;
+		text-align: right;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(125,125,125,1);
+	}
+	#Group_55 {
+		position: absolute;
+		width: 1920px;
+		height: 87px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_64 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_64 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 87px;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_10_rd {
+		position: absolute;
+		width: 130px;
+		height: 31px;
+		left: 1698px;
+		top: 25px;
+		overflow: visible;
+	}
+	#Rectangle_35_rf {
+		fill: url(#Rectangle_35_rf);
+	}
+	.Rectangle_35_rf {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 148px;
+		height: 49px;
+		left: 0px;
+		top: 0px;
+	}
+	#HOW_TO_BUY_rg {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 9px;
+		top: 6px;
+		position: absolute;
+		overflow: visible;
+		width: 114px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 16px;
+		color: rgba(255,255,255,1);
+	}
+	#CONTACT_rh {
+		left: 1581px;
+		top: 29px;
+		position: absolute;
+		overflow: visible;
+		width: 91px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(112,112,112,1);
+	}
+	#TUTORIAL_ri {
+		left: 1460px;
+		top: 29px;
+		position: absolute;
+		overflow: visible;
+		width: 95px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(112,112,112,1);
+	}
+	#FREEWARE {
+		left: 1326px;
+		top: 29px;
+		position: absolute;
+		overflow: visible;
+		width: 108px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(112,112,112,1);
+		letter-spacing: 0.02px;
+	}
+	#PAYWARE {
+		left: 1202px;
+		top: 29px;
+		position: absolute;
+		overflow: visible;
+		width: 98px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(112,112,112,1);
+		letter-spacing: 0.15px;
+	}
+	#GETA_LOGO_PUTIH_bn2x {
+		position: absolute;
+		width: 151px;
+		height: 46px;
+		left: 79px;
+		top: 17px;
+		overflow: visible;
+	}
+	#Rectangle_66_rn {
+		fill: url(#Rectangle_66_rn);
+	}
+	.Rectangle_66_rn {
+		position: absolute;
+		overflow: visible;
+		width: 170px;
+		height: 37px;
+		left: 1634px;
+		top: 365px;
+	}
+	#Rectangle_67_rp {
+		fill: url(#Rectangle_67_rp);
+	}
+	.Rectangle_67_rp {
+		position: absolute;
+		overflow: visible;
+		width: 171px;
+		height: 37px;
+		left: 1449px;
+		top: 365px;
+	}
+	#FREEWARE_rq {
+		left: 1476px;
+		top: 372px;
+		position: absolute;
+		overflow: visible;
+		width: 114px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 19px;
+		color: rgba(255,255,255,1);
+	}
+	#PAYWARE_rr {
+		left: 1668px;
+		top: 372px;
+		position: absolute;
+		overflow: visible;
+		width: 101px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 19px;
+		color: rgba(255,255,255,1);
+	}
+}
+@media (min-width: 0px) and (max-width: 1919px) {
+	.mediaViewInfo {
+		--web-view-name: MAIN PAGE – 2;
+		--web-view-id: MAIN_PAGE__2;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#MAIN_PAGE__2 {
+		position: absolute;
+		display: block;
+		width: 1898px;
+		height: 2259px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: MAIN PAGE – 2;
+		--web-view-id: MAIN_PAGE__2;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#Rectangle_49_ru {
+		fill: rgba(112,112,112,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_49_ru {
+		position: absolute;
+		overflow: visible;
+		width: 1888px;
+		height: 209px;
+		left: 0px;
+		top: 2051px;
+	}
+	#GETA_LOGO_PUTIH_rv {
+		filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		width: 270px;
+		height: 53px;
+		left: 0px;
+		top: 2143px;
+		overflow: visible;
+	}
+	#Payware_rw {
+		left: 225px;
+		top: 2126px;
+		position: absolute;
+		overflow: visible;
+		width: 63px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(190,190,190,1);
+	}
+	#Freeware_rx {
+		left: 225px;
+		top: 2158px;
+		position: absolute;
+		overflow: visible;
+		width: 68px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(190,190,190,1);
+	}
+	#Gallery__ry {
+		left: 225px;
+		top: 2191px;
+		position: absolute;
+		overflow: visible;
+		width: 57px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(190,190,190,1);
+	}
+	#Contact_rz {
+		left: 336px;
+		top: 2126px;
+		position: absolute;
+		overflow: visible;
+		width: 65px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(190,190,190,1);
+	}
+	#How_To_Buy_r {
+		left: 336px;
+		top: 2158px;
+		position: absolute;
+		overflow: visible;
+		width: 89px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(190,190,190,1);
+	}
+	#Tutorial_r {
+		left: 336px;
+		top: 2191px;
+		position: absolute;
+		overflow: visible;
+		width: 59px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(190,190,190,1);
+	}
+	#Payment_Method_r {
+		left: 446px;
+		top: 2126px;
+		position: absolute;
+		overflow: visible;
+		width: 130px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(190,190,190,1);
+	}
+	#Faq_r {
+		left: 445px;
+		top: 2158px;
+		position: absolute;
+		overflow: visible;
+		width: 31px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(190,190,190,1);
+	}
+	#_Geta_Production__2020_r {
+		left: 910px;
+		top: 2202px;
+		position: absolute;
+		overflow: visible;
+		width: 127px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(190,190,190,1);
+	}
+	#Created_by_Ratsa_Creative_r {
+		left: 940px;
+		top: 2217px;
+		position: absolute;
+		overflow: visible;
+		width: 67px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 6px;
+		color: rgba(190,190,190,1);
+	}
+	#GETA_4_r {
+		filter: blur(5px);
+		position: absolute;
+		width: 1898px;
+		height: 1015px;
+		left: 0px;
+		top: 94px;
+		overflow: visible;
+	}
+	#Welcome_to_Geta_Production_r {
+		left: 1374px;
+		top: 196px;
+		position: absolute;
+		overflow: visible;
+		width: 431px;
+		white-space: nowrap;
+		text-align: right;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(112,112,112,1);
+	}
+	#Kami_menyediakan_addons_Trainz_r {
+		left: 1437px;
+		top: 305px;
+		position: absolute;
+		overflow: visible;
+		width: 368px;
+		white-space: nowrap;
+		text-align: right;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(125,125,125,1);
+	}
+	#Group_55_r {
+		position: absolute;
+		width: 1888px;
+		height: 87px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_64_sa {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_64_sa {
+		position: absolute;
+		overflow: visible;
+		width: 1888px;
+		height: 87px;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_10_sb {
+		position: absolute;
+		width: 130px;
+		height: 31px;
+		left: 1666px;
+		top: 25px;
+		overflow: visible;
+	}
+	#Rectangle_35_sd {
+		fill: url(#Rectangle_35_sd);
+	}
+	.Rectangle_35_sd {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 148px;
+		height: 49px;
+		left: 0px;
+		top: 0px;
+	}
+	#HOW_TO_BUY_se {
+		filter: drop-shadow(0px 6px 6px rgba(0, 0, 0, 0.161));
+		left: 9px;
+		top: 6px;
+		position: absolute;
+		overflow: visible;
+		width: 114px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 16px;
+		color: rgba(255,255,255,1);
+	}
+	#CONTACT_sf {
+		left: 1549px;
+		top: 29px;
+		position: absolute;
+		overflow: visible;
+		width: 91px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(112,112,112,1);
+	}
+	#TUTORIAL_sg {
+		left: 1435px;
+		top: 29px;
+		position: absolute;
+		overflow: visible;
+		width: 95px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(112,112,112,1);
+	}
+	#FREEWARE_sh {
+		left: 1303px;
+		top: 29px;
+		position: absolute;
+		overflow: visible;
+		width: 108px;
+		white-space: nowrap;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: PAYWARE_PAGE;
+		cursor: pointer;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(112,112,112,1);
+		letter-spacing: 0.02px;
+	}
+	#PAYWARE_si {
+		left: 1181px;
+		top: 29px;
+		position: absolute;
+		overflow: visible;
+		width: 98px;
+		white-space: nowrap;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: FREEWARE_PAGE;
+		cursor: pointer;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(112,112,112,1);
+		letter-spacing: 0.15px;
+	}
+	#GETA_LOGO_PUTIH_bn2x_sj {
+		position: absolute;
+		width: 151px;
+		height: 46px;
+		left: 79px;
+		top: 17px;
+		overflow: visible;
+	}
+	#Component_1__1 {
+		position: absolute;
+		width: 171px;
+		height: 37px;
+		left: 1449px;
+		top: 365px;
+		overflow: visible;
+	}
+	#Rectangle_67_sm {
+		fill: url(#Rectangle_67_sm);
+	}
+	.Rectangle_67_sm {
+		position: absolute;
+		overflow: visible;
+		width: 171px;
+		height: 37px;
+		left: 0px;
+		top: 0px;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: FREEWARE_PAGE;
+		cursor: pointer;
+	}
+	#FREEWARE_sn {
+		left: 27px;
+		top: 7px;
+		position: absolute;
+		overflow: visible;
+		width: 114px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 19px;
+		color: rgba(255,255,255,1);
+	}
+	#Component_2__1 {
+		position: absolute;
+		width: 170px;
+		height: 37px;
+		left: 1634px;
+		top: 365px;
+		overflow: visible;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: view;
+		--web-action-target: PAYWARE_PAGE;
+		cursor: pointer;
+	}
+	#Rectangle_66_sq {
+		fill: url(#Rectangle_66_sq);
+	}
+	.Rectangle_66_sq {
+		position: absolute;
+		overflow: visible;
+		width: 170px;
+		height: 37px;
+		left: 0px;
+		top: 0px;
+	}
+	#PAYWARE_sr {
+		left: 34px;
+		top: 7px;
+		position: absolute;
+		overflow: visible;
+		width: 101px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 19px;
+		color: rgba(255,255,255,1);
+	}
+	#whatsapp-fill_ss {
+		position: absolute;
+		width: 46px;
+		height: 46px;
+		left: 421px;
+		top: 1417px;
+		overflow: visible;
+	}
+	#ID081228054155_st {
+		left: 470px;
+		top: 1434px;
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(112,112,112,1);
+	}
+	#Whatsapp_su {
+		left: 470px;
+		top: 1415px;
+		position: absolute;
+		overflow: visible;
+		width: 66px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(112,112,112,1);
+	}
+	#line-fill_sv {
+		position: absolute;
+		width: 46px;
+		height: 45px;
+		left: 421px;
+		top: 1479px;
+		overflow: visible;
+	}
+	#alam_geta_sw {
+		left: 470px;
+		top: 1495px;
+		position: absolute;
+		overflow: visible;
+		width: 114px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(112,112,112,1);
+	}
+	#Line_sx {
+		left: 470px;
+		top: 1476px;
+		position: absolute;
+		overflow: visible;
+		width: 26px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(112,112,112,1);
+	}
+	#instagram-fill_sy {
+		position: absolute;
+		width: 46px;
+		height: 45px;
+		left: 421px;
+		top: 1540px;
+		overflow: visible;
+	}
+	#alam_nurulhuda_sz {
+		left: 470px;
+		top: 1556px;
+		position: absolute;
+		overflow: visible;
+		width: 186px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(112,112,112,1);
+	}
+	#Instagram_s {
+		left: 470px;
+		top: 1538px;
+		position: absolute;
+		overflow: visible;
+		width: 63px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(112,112,112,1);
+	}
+	#instagram-fill_s {
+		position: absolute;
+		width: 46px;
+		height: 45px;
+		left: 421px;
+		top: 1601px;
+		overflow: visible;
+	}
+	#geta_production_s {
+		left: 470px;
+		top: 1617px;
+		position: absolute;
+		overflow: visible;
+		width: 201px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(112,112,112,1);
+	}
+	#Instagram_ta {
+		left: 470px;
+		top: 1599px;
+		position: absolute;
+		overflow: visible;
+		width: 63px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(112,112,112,1);
+	}
+	#facebook-circle-fill_s {
+		position: absolute;
+		width: 46px;
+		height: 46px;
+		left: 421px;
+		top: 1662px;
+		overflow: visible;
+	}
+	#Geta_Production {
+		left: 470px;
+		top: 1678px;
+		position: absolute;
+		overflow: visible;
+		width: 180px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(112,112,112,1);
+	}
+	#Fanspage_s {
+		left: 470px;
+		top: 1660px;
+		position: absolute;
+		overflow: visible;
+		width: 60px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(112,112,112,1);
+	}
+	#youtube-fill_s {
+		position: absolute;
+		width: 46px;
+		height: 46px;
+		left: 421px;
+		top: 1723px;
+		overflow: visible;
+	}
+	#Alam_Nurulhuda {
+		left: 470px;
+		top: 1740px;
+		position: absolute;
+		overflow: visible;
+		width: 168px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(112,112,112,1);
+	}
+	#Youtube_s {
+		left: 470px;
+		top: 1721px;
+		position: absolute;
+		overflow: visible;
+		width: 53px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(112,112,112,1);
+	}
+	#Rectangle_47_ta {
+		fill: rgba(112,112,112,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_47_ta {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 352px;
+		left: 1168px;
+		top: 1417px;
+	}
+	#LOGO_ALAM_tb {
+		filter: drop-shadow(0px 5px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		width: 134px;
+		height: 134px;
+		left: 1318px;
+		top: 1495px;
+		overflow: visible;
+	}
+	#Alam_Nurulhuda_tc {
+		left: 1301px;
+		top: 1633px;
+		position: absolute;
+		overflow: visible;
+		width: 168px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(112,112,112,1);
+	}
+	#Founder_td {
+		left: 1361px;
+		top: 1665px;
+		position: absolute;
+		overflow: visible;
+		width: 48px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Coolvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(112,112,112,1);
+	}
+	#ABOUT_FOUNDER {
+		filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+		left: 797px;
+		top: 1310px;
+		position: absolute;
+		overflow: visible;
+		width: 355px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Cocogoose;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 38px;
+		color: rgba(255,88,88,1);
+	}
+}
